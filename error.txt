@@ -1,0 +1,1 @@
+ls: cannot access /non/existant/path: No such file or directory

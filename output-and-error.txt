@@ -1,0 +1,1643 @@
+ls: cannot access /non/existant/path: No such file or directory
+/usr/bin:
+total 214464
+-rwxr-xr-x    1 root root       37000 Mar 22  2017 [
+-rwxr-xr-x    1 root root       11528 Nov 11  2010 411toppm
+-rwxr-xr-x    1 root root      111912 Mar 22  2017 a2p
+-rwxr-xr-x    1 root root       93848 Sep 22  2015 a2ping
+-rwxr-xr-x    1 root root       22312 Mar 23  2017 abrt-action-analyze-backtrace
+-rwxr-xr-x    1 root root       21128 Mar 23  2017 abrt-action-analyze-c
+-rwxr-xr-x    1 root root        1313 Mar 23  2017 abrt-action-analyze-ccpp-local
+-rwxr-xr-x    1 root root        6676 Mar 23  2017 abrt-action-analyze-core
+-rwxr-xr-x    1 root root       21744 Mar 23  2017 abrt-action-analyze-oops
+-rwxr-xr-x    1 root root       20176 Mar 23  2017 abrt-action-analyze-python
+-rwxr-xr-x    1 root root       21616 Mar 23  2017 abrt-action-generate-backtrace
+-rwxr-xr-x    1 root root       20384 Mar 23  2017 abrt-action-generate-core-backtrace
+-rwxr-xr-x    1 root root        7188 Mar 23  2017 abrt-action-install-debuginfo
+-rwxr-xr-x    1 root root        2759 Mar 23  2017 abrt-action-list-dsos
+-rwxr-xr-x    1 root root        8869 Mar 23  2017 abrt-action-notify
+-rwxr-xr-x    1 root root        1292 Mar 23  2017 abrt-action-save-kernel-data
+-rwxr-xr-x    1 root root       30096 Mar 23  2017 abrt-action-save-package-data
+-rwxr-xr-x    1 root root       25128 Mar 23  2017 abrt-action-trim-files
+-rwxr-xr-x    1 root root       31856 Mar 23  2017 abrt-cli
+lrwxrwxrwx    1 root root          22 May 22 16:10 abrt-cli-root -> /usr/bin/consolehelper
+-rwxr-xr-x    1 root root       37000 Mar 23  2017 abrt-dedup-client
+-rwxr-xr-x    1 root root       29320 Mar 23  2017 abrt-dump-oops
+-rwxr-xr-x    1 root root        9001 Mar 23  2017 abrt-handle-upload
+-rwxr-xr-x    1 root root       24816 Mar 22  2017 ac
+-rwxr-xr-x    2 root root       31181 Feb 21  2013 aclocal
+-rwxr-xr-x    2 root root       31181 Feb 21  2013 aclocal-1.11
+-rwxr-xr-x    1 root root       22904 Mar 22  2017 aconnect
+-rwxr-xr-x    1 root root       14984 Feb 16  2016 acpi_listen
+-rwxr-xr-x    1 root root       26128 Nov 11  2010 addftinfo
+-rwxr-xr-x    1 root root       29856 Apr 11 10:49 addr2line
+-rwxr-xr-x    1 root root       78448 Dec  7  2011 afs5log
+-rwxr-xr-x    1 root root      469536 Sep 22  2015 aleph
+-rwxr-xr-x    1 root root        3377 Sep 22  2015 allcm
+lrwxrwxrwx    1 root root           5 Aug  8  2016 allec -> allcm
+-rwxr-xr-x    1 root root         903 Sep 22  2015 allneeded
+-rwxr-xr-x    1 root root     5449076 May  3  2012 alpine
+-rwxr-xr-x    1 root root       27872 Mar 22  2017 alsa-info
+lrwxrwxrwx    1 root root           9 May 22 16:12 alsa-info.sh -> alsa-info
+-rwxr-xr-x    1 root root     1558864 Mar 22  2017 alsaloop
+-rwxr-xr-x    1 root root       76472 Mar 22  2017 alsamixer
+-rwxr-xr-x    1 root root       23488 Mar 22  2017 amidi
+-rwxr-xr-x    1 root root       56168 Mar 22  2017 amixer
+lrwxrwxrwx    1 root root           6 Aug  8  2016 amstex -> pdftex
+-rwxr-xr-x    1 root root       11378 Nov 11  2010 anytopnm
+-rwxr-xr-x    1 root root       78808 Mar 22  2017 aplay
+-rwxr-xr-x    1 root root       26120 Mar 22  2017 aplaymidi
+-rwxr-xr-x    1 root root        1786 Mar 21  2017 apropos
+-rwxr-xr-x    1 root root       60976 Apr 11 10:49 ar
+lrwxrwxrwx    1 root root           5 May 22 16:12 arecord -> aplay
+-rwxr-xr-x    1 root root       29040 Mar 22  2017 arecordmidi
+-rwxr-xr-x    1 root root      541928 Apr 11 10:49 as
+-rwxr-xr-x    1 root root       10440 Nov 11  2010 asciitopgm
+-rwxr-xr-x    1 root root       21344 Mar 22  2017 aseqdump
+-rwxr-xr-x    1 root root       22400 Mar 22  2017 aseqnet
+-rwxr-xr-x    1 root root       32888 May 11  2016 aserver
+-rwxr-xr-x    1 root root      187008 Nov 10  2010 aspell
+-rwxr-xr-x    1 root root      617696 Feb 24  2014 assistant_adp
+-rwxr-xr-x    1 root root      970496 Feb 24  2014 assistant-qt4
+-rwsr-xr-x    1 root root       54464 Mar 21  2017 at
+-rwxr-xr-x    1 root root       11632 Nov 11  2010 atktopbm
+lrwxrwxrwx    1 root root           2 May 22 16:12 atq -> at
+lrwxrwxrwx    1 root root           2 May 22 16:12 atrm -> at
+-rwxr-xr-x    1 root root       13840 Sep 23  2011 attr
+-rwxr-xr-x    1 root root       18752 Mar 22  2017 aulast
+-rwxr-xr-x    1 root root       13192 Mar 22  2017 aulastlog
+-rwxr-xr-x    1 root root       11280 Mar 22  2017 ausyscall
+-rwxr-xr-x.   1 root root       14631 Nov 10  2010 autoconf
+-rwxr-xr-x.   1 root root        8484 Nov 10  2010 autoheader
+-rwxr-xr-x.   1 root root       31789 Nov 10  2010 autom4te
+-rwxr-xr-x    2 root root      257062 Feb 21  2013 automake
+-rwxr-xr-x    2 root root      257062 Feb 21  2013 automake-1.11
+-rwxr-xr-x    1 root root       18760 Jun  2  2014 autopoint
+-rwxr-xr-x.   1 root root       20233 Nov 10  2010 autoreconf
+-rwxr-xr-x.   1 root root       17065 Nov 10  2010 autoscan
+-rwxr-xr-x.   1 root root       33766 Nov 10  2010 autoupdate
+-rwxr-xr-x    1 root root       34824 Mar 22  2017 auvirt
+lrwxrwxrwx    1 root root          14 Aug  8  2016 awk -> ../../bin/gawk
+-rwxr-xr-x    1 root root       11128 Feb 19  2015 b2m
+-rwxr-xr-x    1 root root       27600 Nov 10  2010 b43-fwcutter
+-rwxr-xr-x    1 root root       32848 Mar 22  2017 base64
+-rwxr-xr-x    1 root root        6932 Mar 22  2017 bashbug-64
+-rwxr-xr-x    1 root root         137 Mar 21  2017 batch
+-rwxr-xr-x    1 root root       87840 Nov 10  2010 bc
+-rwxr-xr-x    1 root root       11168 Dec  7  2011 bdftopcf
+-rwxr-xr-x    1 root root         292 May 15 11:29 bdftops
+-rwxr-xr-x    1 root root       75824 Mar 21  2017 berkeley_db_svc
+-rwxr-xr-x    1 root root      102992 Sep 22  2015 bibtex
+-rwxr-xr-x    1 root root      129856 Sep 22  2015 bibtex8
+-rwxr-xr-x    1 root root       10656 Nov 11  2010 bioradtopgm
+-rwxr-xr-x    1 root root      303304 Nov 10  2010 bison
+-rwxr-xr-x    1 root root       25416 May 10  2016 blkiomon
+-rwxr-xr-x    1 root root       47216 May 10  2016 blkparse
+-rwxr-xr-x    1 root root       15536 May 10  2016 blkrawverify
+-rwxr-xr-x    1 root root       39760 May 10  2016 blktrace
+-rwxr-xr-x    1 root root       17920 Feb  1  2017 bmp2tiff
+-rwxr-xr-x    1 root root       23456 Nov 11  2010 bmptopnm
+lrwxrwxrwx    1 root root           8 Jan 18  2012 bmptoppm -> bmptopnm
+-rwxr-xr-x    1 root root        3463 May 10  2016 bno_plot.py
+-rwxr-xr-x    1 root root        9544 Nov 11  2010 brushtopbm
+-rwxr-xr-x    1 root root       16632 Nov 22  2013 btparser
+-rwxr-xr-x    1 root root         891 May 10  2016 btrace
+-rwxr-xr-x    1 root root       16952 May 10  2016 btrecord
+-rwxr-xr-x    1 root root       27480 May 10  2016 btreplay
+-rwxr-xr-x    1 root root       74088 May 10  2016 btt
+-rwxr-xr-x    1 root root        1539 Sep 17  2005 build-classpath
+-rwxr-xr-x    1 root root         383 Dec 15  2004 build-classpath-directory
+-rwxr-xr-x    1 root root        1572 Sep 17  2005 build-jar-repository
+lrwxrwxrwx.   1 root root           5 Jul 27  2011 bunzip2 -> bzip2
+lrwxrwxrwx    1 root root           4 Aug  8  2016 byacc -> yacc
+lrwxrwxrwx.   1 root root           5 Jul 27  2011 bzcat -> bzip2
+lrwxrwxrwx.   1 root root           6 Jul 27  2011 bzcmp -> bzdiff
+-rwxr-xr-x.   1 root root        2128 Jun 24  2011 bzdiff
+-rwxr-xr-x.   1 root root        1677 Jun 24  2011 bzgrep
+-rwxr-xr-x    1 root root       36336 Jun 24  2011 bzip2
+-rwxr-xr-x    1 root root       13456 Jun 24  2011 bzip2recover
+lrwxrwxrwx.   1 root root           6 Jul 27  2011 bzless -> bzmore
+-rwxr-xr-x.   1 root root        1259 Jun 24  2011 bzmore
+-rwxr-xr-x    4 root root      271344 Mar 21  2017 c++
+-rwxr-xr-x    2 root root       36601 Mar 22  2017 c2ph
+-rwxr-xr-x    1 root root         224 Mar 21  2017 c89
+-rwxr-xr-x    1 root root         215 Mar 21  2017 c99
+-rwxr-xr-x    1 root root       21600 Mar 22  2017 cal
+-rwxr-xr-x    1 root root        1644 May  9 14:24 ca-legacy
+-rwxr-xr-x    1 root root       40873 Mar 22  2017 callgrind_annotate
+-rwxr-xr-x    1 root root       11522 Mar 22  2017 callgrind_control
+-rwxr-xr-x    1 root root      113624 Nov 11  2010 cameratopam
+lrwxrwxrwx    1 root root          30 Jun 16 16:00 cancel -> /etc/alternatives/print-cancel
+-rwxr-xr-x    1 root root       14672 May 30 17:17 cancel.cups
+lrwxrwxrwx    1 root root           3 Aug  8  2016 captoinfo -> tic
+-rwxr-xr-x.   1 root root       17416 Nov 10  2010 cas
+-rwxr-xr-x.   1 root root       10075 Nov 10  2010 cas-admin
+-rwxr-xr-x    1 root root        3384 Jun 19 23:24 catchsegv
+lrwxrwxrwx    1 root root           3 May 22 16:11 cc -> gcc
+-rwxr-xr-x    1 root root       50216 Sep 23  2011 ccache-swig
+-rwxr-xr-x    1 root root     4234744 Oct 14  2014 ccmake
+-rwxr-xr-x    1 root root      133152 Mar 22  2017 certmaster-getcert
+-rwxr-xr-x    1 root root      129880 Mar 22  2017 certtool
+-rwxr-xr-x    1 root root      168456 May 30 11:46 certutil
+-rwxr-xr-x    1 root root       29224 Apr 11 10:49 c++filt
+-rwxr-xr-x    1 root root       32169 Mar 22  2017 cg_annotate
+-rwxr-xr-x    1 root root       10417 Mar 22  2017 cg_diff
+-rwxr-xr-x    1 root root       69644 Mar 22  2017 cg_merge
+-rwxr-xr-x    1 root root       17224 Aug 22 16:14 chacl
+-rwsr-xr-x    1 root root       70480 May 10  2016 chage
+-rwxr-xr-x    1 root root       14136 Mar 22  2017 chattr
+-rwxr-xr-x    1 root root       59680 Mar 22  2017 chcon
+-rwxr-xr-x    1 root root        3329 Sep 19  2006 check-binary-files
+-rwxr-xr-x    1 root root      281120 Nov 10  2010 checkmodule
+-rwxr-xr-x    1 root root      289312 Nov 10  2010 checkpolicy
+-rws--x--x    1 root root       20184 Mar 22  2017 chfn
+-rwxr-xr-x    1 root root       13080 Mar 22  2017 chrt
+-rws--x--x    1 root root       20056 Mar 22  2017 chsh
+-rwxr-xr-x    1 root root       10056 Nov 11  2010 chvt
+-rwxr-xr-x    1 root root       92184 Nov 11  2010 ci
+-rwxr-xr-x    1 root root       57288 Mar 22  2017 cifsiostat
+-rwxr-xr-x    1 root root       32608 Dec  9  2013 cjpeg
+-rwxr-xr-x    1 root root       27656 May 10  2016 ck-history
+-rwxr-xr-x    1 root root       11472 May 10  2016 ck-launch-session
+-rwxr-xr-x    1 root root       15760 May 10  2016 ck-list-sessions
+-rwxr-xr-x    1 root root       28816 Mar 22  2017 cksum
+-rwxr-xr-x    1 root root       13219 Sep 19  2006 clean-binary-files
+-rwxr-xr-x    1 root root        8352 Mar 16  2015 clear
+-rwxr-xr-x    1 root root       15336 Nov 10  2010 cloog
+-rwxr-xr-x    1 root root     4168936 Oct 14  2014 cmake
+-rwxr-xr-x    1 root root       23640 Nov 10  2010 cmp
+-rwxr-xr-x    1 root root       98000 May 30 11:46 cmsutil
+-rwxr-xr-x    1 root root        9936 Nov 11  2010 cmuwmtopbm
+-rwxr-xr-x    1 root root       87672 Nov 11  2010 co
+-rwxr-xr-x    1 root root       14552 Mar 22  2017 col
+-rwxr-xr-x    1 root root       11304 Mar 22  2017 colcrt
+-rwxr-xr-x    1 root root        8848 Mar 22  2017 colrm
+-rwxr-xr-x    1 root root       13472 Mar 22  2017 column
+lrwxrwxrwx.   1 root root           9 Jul 27  2011 combinediff -> interdiff
+-rwxr-xr-x    1 root root       32056 Mar 22  2017 comm
+-rwxr-xr-x    1 root root        1481 Mar 22  2017 compile_et
+-r-xr-xr-x    1 root root        7224 Jun 21  2010 config_data
+-rwxr-xr-x    1 root root        8880 Aug 22  2010 consolehelper
+-r-xr-xr-x    1 root root        6508 Feb 25  2010 corelist
+-rwxr-xr-x    1 root root     4417920 Oct 14  2014 cpack
+-rwxr-xr-x    1 root root       11839 Mar 22  2017 cpan
+-rwxr-xr-x    1 root root       22409 Mar 22  2017 cpan2dist
+-rwxr-xr-x    1 root root        3398 Mar 22  2017 cpanp
+-rwxr-xr-x    1 root root         536 Mar 22  2017 cpanp-run-perl
+-rwxr-xr-x    1 root root      270504 Mar 21  2017 cpp
+-rwxr-xr-x    1 root root     7418224 May 10  2016 crash
+-rwxr-xr-x    1 root root        4656 Sep 19  2006 create-jar-links
+-rwxr-xr-x    1 root root      118320 May 30 11:46 crlutil
+-rwsr-xr-x    1 root root       51784 Aug 23  2016 crontab
+-rwxr-xr-x    1 root root      335680 May 10  2016 cscope
+-rwxr-xr-x    1 root root        3858 Jun 28  2001 cscope-indexer
+lrwxrwxrwx    1 root root           6 Aug  8  2016 cslatex -> pdftex
+lrwxrwxrwx    1 root root           6 Aug  8  2016 csplain -> pdftex
+-rwxr-xr-x    1 root root      108712 Mar 22  2017 csplit
+-rwxr-xr-x    1 root root       23216 Aug 21  2010 csslint-0.6
+-rwxr-xr-x    1 root root      235648 Nov 10  2010 ctags
+-rwxr-xr-x    1 root root       44256 Sep 22  2015 ctangle
+-rwxr-xr-x    1 root root     5180888 Oct 14  2014 ctest
+-rwxr-xr-x    1 root root       19376 Sep 22  2015 ctie
+-rwxr-xr-x    1 root root       14576 May 30 17:17 cupstestdsc
+-rwxr-xr-x    1 root root       64120 May 30 17:17 cupstestppd
+-rwxr-xr-x    1 root root      134456 Apr  3 09:49 curl
+lrwxrwxrwx    1 root root          13 May 22 16:09 cut -> ../../bin/cut
+-rwxr-xr-x    1 root root      641104 Nov 22  2013 cvs
+-rwxr-xr-x    1 root root       14028 Nov 22  2013 cvsbug
+-rwxr-xr-x    1 root root       82208 Sep 22  2015 cweave
+-rwxr-xr-x    1 root root       12080 Mar 21  2017 db_archive
+-rwxr-xr-x    1 root root       14120 Mar 21  2017 db_checkpoint
+-rwxr-xr-x    1 root root       26200 Mar 21  2017 db_codegen
+-rwxr-xr-x    1 root root       14504 Mar 21  2017 db_deadlock
+-rwxr-xr-x    1 root root       16176 Mar 21  2017 db_dump
+-rwxr-xr-x    1 root root       65344 Mar 21  2017 db_dump185
+-rwxr-xr-x    1 root root       21384 Mar 21  2017 db_hotbackup
+-rwxr-xr-x.   1 root root        1465 Aug 19  2010 dbilogstrip
+-rwxr-xr-x.   1 root root        6300 Aug 19  2010 dbiprof
+-rwxr-xr-x.   1 root root        5482 Aug 19  2010 dbiproxy
+-rwxr-xr-x    1 root root       27424 Mar 21  2017 db_load
+-rwxr-xr-x    1 root root       71272 Mar 21  2017 db_printlog
+-rwxr-xr-x    1 root root       13808 Mar 21  2017 db_recover
+-rwxr-xr-x    1 root root       14848 Mar 21  2017 db_stat
+-rwxr-xr-x    1 root root       12608 Mar 21  2017 db_upgrade
+-rwxr-xr-x    1 root root       90000 Feb 26  2013 dbus-binding-tool
+-rwxr-xr-x    1 root root       13208 Mar 21  2017 db_verify
+-rwxr-xr-x    1 root root       49816 Nov 10  2010 dc
+-rwxr-xr-x    1 root root       14008 Mar 22  2017 ddate
+-rwxr-xr-x    1 root root       11208 Nov 11  2010 ddbugtopbm
+-rwxr-xr-x    1 root root       10528 Nov 11  2010 deallocvt
+-rwxr-xr-x    1 root root        7635 Mar 22  2017 debuginfo-install
+-rwxr-xr-x.   1 root root        1351 Aug 19  2010 dehtmldiff
+-rwxr-xr-x    1 root root       53008 Aug 25  2010 desktop-file-install
+-rwxr-xr-x    1 root root       44864 Aug 25  2010 desktop-file-validate
+-rwxr-xr-x    1 root root       86368 Nov 10  2010 diff
+-rwxr-xr-x    1 root root       27584 Nov 10  2010 diff3
+-rwxr-xr-x    1 root root        1233 Dec 15  2004 diff-jars
+-rwxr-xr-x    1 root root       35096 Aug 22  2010 diffstat
+-rwxr-xr-x    1 root root      154120 Jul  5 05:55 dig
+-rwxr-xr-x    1 root root      117048 Mar 22  2017 dir
+-rwxr-xr-x    1 root root       36600 Mar 22  2017 dircolors
+-rwxr-xr-x    1 root root       26264 Mar 22  2017 dirname
+-rwxr-xr-x    1 root root       32944 Dec  9  2013 djpeg
+-rwxr-xr-x    1 root root       37968 Sep 22  2015 dmp
+-rwxr-xr-x    1 root root       19624 Aug 22  2010 dos2unix
+-rwxr-xr-x    1 root root     5733976 Sep 23  2011 doxygen
+-rwxr-xr-x    1 root root      292632 Sep 23  2011 doxytag
+-rwxr-xr-x    1 root root       24089 Mar 22  2017 dprofpp
+-rwxr-xr-x    1 root root       83353 Mar 21  2017 dstat
+-rwxr-xr-x    1 root root       99200 Mar 22  2017 du
+-rwxr-xr-x    1 root root         554 May 15 11:29 dumphint
+-rwxr-xr-x    1 root root        1098 Sep 22  2015 dvi2fax
+-rwxr-xr-x    1 root root        1057 May 15 11:29 dvipdf
+-rwxr-xr-x    1 root root      231104 Nov 12  2010 dvipdfm
+-rwxr-xr-x    1 root root        3255 Nov 12  2010 dvipdft
+-rwxr-xr-x    1 root root      208000 Sep 22  2015 dvips
+-rwxr-xr-x    1 root root        3081 Sep 22  2015 dvired
+-rwxr-xr-x    1 root root       39736 Sep 22  2015 dvitomp
+-rwxr-xr-x    1 root root        2728 Sep 22  2015 e2pall
+-rwxr-xr-x.   1 root root         323 Nov 11  2010 easy_install
+-rwxr-xr-x.   1 root root         331 Nov 11  2010 easy_install-2.6
+-rwxr-xr-x    1 root root       48632 Nov 12  2010 ebb
+-rwxr-xr-x    1 root root       47688 Feb 19  2015 ebrowse
+-rwxr-xr-x.   1 root root        1951 Aug 19  2010 editdiff
+lrwxrwxrwx.   1 root root          13 Jul 27  2011 eject -> consolehelper
+-rwxr-xr-x    1 root root     1261720 Feb 11  2013 elinks
+lrwxrwxrwx    1 root root          23 Aug  8  2016 emacs -> /etc/alternatives/emacs
+-rwxr-xr-t    1 root root    11016128 Feb 19  2015 emacs-23.1
+-rwxr-xr-x    1 root root       25304 Feb 19  2015 emacsclient
+lrwxrwxrwx    1 root root           6 Aug 30  2013 emerge -> emerge
+-rwxr-xr-x    1 root root       39147 Mar 22  2017 enc2xs
+lrwxrwxrwx    1 root root          13 May 22 16:09 env -> ../../bin/env
+-rwxr-xr-x    1 root root       33552 Jun  2  2014 envsubst
+lrwxrwxrwx    1 root root           6 Aug  8  2016 eplain -> pdftex
+-rwxr-xr-x    1 root root         632 May 15 11:29 eps2eps
+-rwxr-xr-x    1 root root       14296 Aug 22  2010 epsffit
+-rwxr-xr-x    1 root root       12311 Sep 22  2015 epstopdf
+-rwxr-xr-x    1 root root      144176 Nov 11  2010 eqn
+-rwxr-xr-x.   1 root root        2242 Nov 11  2010 eqn2graph
+-rwxr-xr-x    1 root root       10216 Nov 11  2010 escp2topbm
+-rwxr-xr-x.   1 root root        1563 Aug 19  2010 espdiff
+lrwxrwxrwx    1 root root          29 Aug  8  2016 etags -> /etc/alternatives/emacs.etags
+-rwxr-xr-x    1 root root      102472 Feb 19  2015 etags.emacs
+lrwxrwxrwx    1 root root           6 Aug  8  2016 etex -> pdftex
+-rwxr-xr-x    1 root root       26072 May 10  2016 eu-addr2line
+-rwxr-xr-x    1 root root       37136 May 10  2016 eu-ar
+-rwxr-xr-x    1 root root       33856 May 10  2016 eu-elfcmp
+-rwxr-xr-x    1 root root      103984 May 10  2016 eu-elflint
+-rwxr-xr-x    1 root root       19976 May 10  2016 eu-findtextrel
+-rwxr-xr-x    1 root root        2911 May 10  2016 eu-make-debug-archive
+-rwxr-xr-x    1 root root       47432 May 10  2016 eu-nm
+-rwxr-xr-x    1 root root       34168 May 10  2016 eu-objdump
+-rwxr-xr-x    1 root root       20984 May 10  2016 eu-ranlib
+-rwxr-xr-x    1 root root      178616 May 10  2016 eu-readelf
+-rwxr-xr-x    1 root root       19208 May 10  2016 eu-size
+-rwxr-xr-x    1 root root       29912 May 10  2016 eu-stack
+-rwxr-xr-x    1 root root       20296 May 10  2016 eu-strings
+-rwxr-xr-x    1 root root       51448 May 10  2016 eu-strip
+-rwxr-xr-x    1 root root       49808 May 10  2016 eu-unstrip
+-rwxr-xr-x    1 root root      184592 Aug 19  2013 execstack
+-rwxr-xr-x    1 root root       30504 Mar 22  2017 expand
+-rwxr-xr-x    1 root root      100224 Mar 22  2017 expr
+-rwxr-xr-x    1 root root        8192 Sep 22  2015 extconv
+-rwxr-xr-x    1 root root       12144 Nov 11  2010 eyuvtoppm
+lrwxrwxrwx    1 root root           8 May 22 16:11 f95 -> gfortran
+-rwxr-xr-x    1 root root       48984 Mar 22  2017 factor
+-rwxr-xr-x    1 root root       11600 Mar 22  2017 fallocate
+-rwxr-xr-x    1 root root       48568 Mar 21  2017 fastjar
+-rwxr-xr-x    1 root root       19472 Feb  1  2017 fax2ps
+-rwxr-xr-x    1 root root       18352 Feb  1  2017 fax2tiff
+-rwxr-xr-x    1 root root       17424 May 27  2014 fc-cache
+-rwxr-xr-x    1 root root       15464 May 27  2014 fc-cat
+-rwxr-xr-x    1 root root       13016 May 27  2014 fc-list
+-rwxr-xr-x    1 root root       14320 May 27  2014 fc-match
+-rwxr-xr-x    1 root root       11648 May 27  2014 fc-query
+-rwxr-xr-x    1 root root       12024 May 27  2014 fc-scan
+-rwxr-xr-x    1 root root       10632 Nov 11  2010 fgconsole
+-rwxr-xr-x    1 root root       94944 Nov 11  2010 fiascotopnm
+-rwxr-xr-x    1 root root       19784 May 10  2016 file
+-rwxr-xr-x    1 root root       45304 Aug 19  2010 filterdiff
+lrwxrwxrwx    1 root root          14 Aug  8  2016 find -> ../../bin/find
+-rwxr-xr-x    1 root root       23614 Mar 22  2017 find2perl
+-rwxr-xr-x    1 root root         749 Sep 17  2005 find-jar
+-rwxr-xr-x    1 root root        4376 Mar 22  2017 find-repos-of-install
+-rwxr-xr-x    1 root root        4603 Sep 21 06:38 findsmb
+-rwxr-xr-x    1 root root       24472 Jun  2  2014 finger
+-rwxr-xr-x    1 root root       14920 Dec  7  2011 fipscheck
+-rwxr-xr-x    1 root root       14232 Dec  7  2011 fipshmac
+-rwxr-xr-x    1 root root        6847 Aug 15 08:26 firefox
+-rwxr-xr-x    1 root root       16680 Nov 11  2010 fitstopnm
+-rwxr-xr-x.   1 root root        1870 Aug 19  2010 fixcvsdiff
+-rwxr-xr-x    1 root root      196560 Mar 31  2015 flac
+-rwxr-xr-x    1 root root      337760 Oct 14  2014 flex
+lrwxrwxrwx    1 root root           4 Aug  8  2016 flex++ -> flex
+lrwxrwxrwx.   1 root root           9 Jul 27  2011 flipdiff -> interdiff
+-rwxr-xr-x    1 root root       14488 Mar 22  2017 flock
+-rwxr-xr-x    1 root root       28656 Mar 22  2017 floppy
+-rwxr-xr-x    1 root root       34032 Mar 22  2017 fmt
+-rwxr-xr-x    1 root root       29153 Sep 22  2015 fmtutil
+-rwxr-xr-x    1 root root         831 Sep 22  2015 fmtutil-sys
+-rwxr-xr-x    1 root root       31696 Mar 22  2017 fold
+-rwxr-xr-x    1 root root         300 May 15 11:29 font2c
+-rwxr-xr-x    1 root root         552 Sep 22  2015 fontinst
+-rwxr-xr-x    1 root root       37472 Dec  7  2011 fonttosfnt
+-rwxr-xr-x    1 root root       46256 Mar 22  2016 foomatic-combo-xml
+-rwxr-xr-x    1 root root        4629 Mar 22  2016 foomatic-compiledb
+-rwxr-xr-x    1 root root      136795 Mar 22  2016 foomatic-configure
+lrwxrwxrwx    1 root root          16 Aug  8  2016 foomatic-datafile -> foomatic-ppdfile
+-rwxr-xr-x    1 root root       83912 Mar 22  2016 foomatic-perl-data
+-rwxr-xr-x    1 root root        9676 Mar 22  2016 foomatic-ppdfile
+-rwxr-xr-x    1 root root        4000 Mar 22  2016 foomatic-ppd-options
+-rwxr-xr-x    1 root root        9003 Mar 22  2016 foomatic-ppd-to-xml
+-rwxr-xr-x    1 root root       35088 Mar 22  2016 foomatic-printjob
+-rwxr-xr-x    1 root root      111168 Mar 22  2016 foomatic-rip
+-rwxr-xr-x    1 root root        2487 Mar 22  2016 foomatic-searchprinter
+-rwxr-xr-x    1 root root       13304 Mar 10  2015 fprintd-delete
+-rwxr-xr-x    1 root root       13008 Mar 10  2015 fprintd-enroll
+-rwxr-xr-x    1 root root       13768 Mar 10  2015 fprintd-list
+-rwxr-xr-x    1 root root       15008 Mar 10  2015 fprintd-verify
+-rwxr-xr-x    1 root root       14352 Jul 12 11:38 free
+-rwxr-xr-x    1 root root       10712 Nov 11  2010 fstopgm
+-rwxr-xr-x    1 root root       90080 May 29  2013 ftp
+-rwxr-xr-x    1 root root       25432 Mar 21  2017 funzip
+-rwxr-xr-x    4 root root      271344 Mar 21  2017 g++
+-rwxr-xr-x    1 root root       15840 Nov 11  2010 g3topbm
+lrwxrwxrwx    1 root root          14 Aug  8  2016 gawk -> ../../bin/gawk
+-rwxr-xr-x    2 root root      268288 Mar 21  2017 gcc
+-rwxr-xr-x    1 root root       37000 Mar 21  2017 gcj-dbtool
+-rwxr-xr-x    1 root root       62448 Mar 22  2017 gconf-merge-tree
+-rwxr-xr-x    1 root root       71976 Mar 22  2017 gconftool-2
+-rwxr-xr-x    1 root root        2039 Mar 22  2017 gcore
+-rwxr-xr-x    1 root root       44128 Mar 21  2017 gcov
+-rwxr-xr-x    1 root root      104224 Feb 19  2015 gctags
+-rwxr-xr-x    1 root root     4504864 Mar 22  2017 gdb
+-rwxr-xr-x    1 root root        1094 Mar 22  2017 gdb-add-index
+lrwxrwxrwx    1 root root           3 May 22 16:12 gdbtui -> gdb
+-rwxr-xr-x    1 root root       38824 Mar 22  2017 gdbus
+-rwxr-xr-x    1 root root       16816 Aug 31  2015 gdk-pixbuf-query-loaders-64
+lrwxrwxrwx    1 root root           8 Jan 18  2012 gemtopbm -> gemtopnm
+-rwxr-xr-x    1 root root       12328 Nov 11  2010 gemtopnm
+-rwxr-xr-x    1 root root       25784 Jun 19 23:38 gencat
+-rwxr-xr-x    1 root root         586 May 10  2016 gendiff
+lrwxrwxrwx.   1 root root           3 Jul 27  2011 geqn -> eqn
+-rwxr-xr-x    1 root root       14519 Mar 22  2017 GET
+-rwxr-xr-x    1 root root        6124 Aug 22  2010 getafm
+-rwxr-xr-x    1 root root      137240 Mar 22  2017 getcert
+-rwxr-xr-x    1 root root       10440 Jul 23  2015 getcifsacl
+-rwxr-xr-x    1 root root       25536 Jun 19 23:38 getconf
+-rwxr-xr-x    1 root root       30504 Jun 19 23:38 getent
+-rwxr-xr-x    1 root root       26248 Aug 22 16:14 getfacl
+-rwxr-xr-x    1 root root       21976 Sep 23  2011 getfattr
+-rwxr-xr-x    1 root root       10792 Nov 11  2010 getkeycodes
+-rwxr-xr-x    1 root root       15640 Mar 22  2017 getopt
+lrwxrwxrwx    1 root root          17 Aug  8  2016 gettext -> ../../bin/gettext
+-rwxr-xr-x    1 root root       41907 Jun  2  2014 gettextize
+-rwxr-xr-x    1 root root        4653 Jun  2  2014 gettext.sh
+-rwxr-xr-x    1 root root      283920 Mar 21  2017 gfortran
+-rwxr-xr-x    1 root root       46416 Sep 22  2015 gftodvi
+-rwxr-xr-x    1 root root       27464 Sep 22  2015 gftopk
+-rwxr-xr-x    1 root root       27384 Sep 22  2015 gftype
+lrwxrwxrwx    1 root root           2 May 22 16:11 ghostscript -> gs
+-rwxr-xr-x    1 root root       17888 Feb  1  2017 gif2tiff
+-rwxr-xr-x    1 root root       24568 Nov 11  2010 giftopnm
+-rwxr-xr-x    1 root root        9776 Mar 21  2017 gij
+lrwxrwxrwx.   1 root root           7 Jul 27  2011 gindxbib -> indxbib
+-rwxr-xr-x    1 root root       14368 Mar 22  2017 gio-querymodules-64
+-rwxr-xr-x  105 root root     1140640 Aug 16 20:00 git
+-rwxr-xr-x    1 root root     1140648 Aug 16 20:00 git-receive-pack
+-rwxr-xr-x    1 root root      461488 Aug 16 20:00 git-shell
+-rwxr-xr-x    1 root root     1140648 Aug 16 20:00 git-upload-archive
+-rwxr-xr-x    1 root root      471800 Aug 16 20:00 git-upload-pack
+-rwxr-xr-x    1 root root       10456 Mar 21  2017 gjar
+-rwxr-xr-x    1 root root       10472 Mar 21  2017 gjarsigner
+-rwxr-xr-x    1 root root       10464 Mar 21  2017 gkeytool
+-rwxr-xr-x    1 root root       43352 Mar 22  2017 glib-compile-schemas
+lrwxrwxrwx.   1 root root           7 Jul 27  2011 glookbib -> lookbib
+lrwxrwxrwx    1 root root           4 Aug  8  2016 gmake -> make
+lrwxrwxrwx.   1 root root           4 Jul 27  2011 gneqn -> neqn
+-rwxr-xr-x    1 root root       24760 May 10  2016 gnomevfs-cat
+-rwxr-xr-x    1 root root       24976 May 10  2016 gnomevfs-copy
+-rwxr-xr-x    1 root root       27224 May 10  2016 gnomevfs-df
+-rwxr-xr-x    1 root root       29368 May 10  2016 gnomevfs-info
+-rwxr-xr-x    1 root root       27536 May 10  2016 gnomevfs-ls
+-rwxr-xr-x    1 root root       25264 May 10  2016 gnomevfs-mkdir
+-rwxr-xr-x    1 root root       26048 May 10  2016 gnomevfs-monitor
+-rwxr-xr-x    1 root root       24520 May 10  2016 gnomevfs-mv
+-rwxr-xr-x    1 root root       24520 May 10  2016 gnomevfs-rm
+lrwxrwxrwx.   1 root root           5 Jul 27  2011 gnroff -> nroff
+-rwxr-xr-x    1 root root       69328 Mar 22  2017 gnutls-cli
+-rwxr-xr-x    1 root root       60608 Mar 22  2017 gnutls-cli-debug
+-rwxr-xr-x    1 root root       72216 Mar 22  2017 gnutls-serv
+-rwxr-xr-x    1 root root       10456 Mar 21  2017 gorbd
+-rwxr-xr-x    1 root root       10320 Nov 11  2010 gouldtoppm
+-rwsr-xr-x    1 root root       75640 May 10  2016 gpasswd
+lrwxrwxrwx    1 root root           4 Aug  8  2016 gpg -> gpg2
+-rwxr-xr-x    1 root root      768448 Jun 30  2014 gpg2
+-rwxr-xr-x    1 root root      305176 Jun 30  2014 gpg-agent
+-rwxr-xr-x    1 root root      135776 Jun 30  2014 gpgconf
+-rwxr-xr-x    1 root root      179336 Jun 30  2014 gpg-connect-agent
+-rwxr-xr-x    1 root root       21840 Dec  7  2011 gpg-error
+-rwxr-xr-x    1 root root       40504 Jun 30  2014 gpgkey2ssh
+-rwxr-xr-x    1 root root       26640 Jun 30  2014 gpgparsemail
+-rwxr-xr-x    1 root root       52616 Jun 30  2014 gpgsplit
+lrwxrwxrwx    1 root root           5 Aug  8  2016 gpgv -> gpgv2
+-rwxr-xr-x    1 root root      342264 Jun 30  2014 gpgv2
+-rwxr-xr-x    1 root root        3303 Jun 30  2014 gpg-zip
+lrwxrwxrwx.   1 root root           3 Jul 27  2011 gpic -> pic
+-rwxr-xr-x    1 root root       99424 Apr 11 10:49 gprof
+lrwxrwxrwx.   1 root root           5 Jul 27  2011 grefer -> refer
+-rwxr-xr-x    1 root root        7288 Jun 21  2009 grep-changelog
+lrwxrwxrwx.   1 root root          10 Jul 27  2011 grepdiff -> filterdiff
+-rwxr-xr-x    1 root root       90432 Mar 21  2017 grepjar
+-rwxr-xr-x    1 root root       10456 Mar 21  2017 grmic
+-rwxr-xr-x    1 root root       10456 Mar 21  2017 grmid
+-rwxr-xr-x    1 root root       10472 Mar 21  2017 grmiregistry
+-rwxr-xr-x    1 root root       72976 Nov 11  2010 grn
+-rwxr-xr-x    1 root root       88296 Nov 11  2010 grodvi
+-rwxr-xr-x    1 root root       73672 Nov 11  2010 groff
+-rwxr-xr-x.   1 root root        7777 Nov 11  2010 groffer
+-rwxr-xr-x.   1 root root        2472 Nov 11  2010 grog
+-rwxr-xr-x    1 root root       95736 Nov 11  2010 grolbp
+-rwxr-xr-x    1 root root       85240 Nov 11  2010 grolj4
+-rwxr-xr-x    1 root root      124864 Nov 11  2010 grops
+-rwxr-xr-x    1 root root       84200 Nov 11  2010 grotty
+-rwxr-xr-x    1 root root       27992 Mar 22  2017 groups
+-rwxr-xr-x    1 root root       19128 May 15 11:29 gs
+-rwxr-xr-x    1 root root         337 May 15 11:29 gsbj
+-rwxr-xr-x    1 root root         339 May 15 11:29 gsdj
+-rwxr-xr-x    1 root root         342 May 15 11:29 gsdj500
+-rwxr-xr-x    1 root root       10472 Mar 21  2017 gserialver
+-rwxr-xr-x    1 root root       37760 Sep 22  2015 gsftopk
+-rwxr-xr-x    1 root root         340 May 15 11:29 gslj
+-rwxr-xr-x    1 root root         337 May 15 11:29 gslp
+-rwxr-xr-x    1 root root         264 May 15 11:29 gsnd
+lrwxrwxrwx.   1 root root           6 Jul 27  2011 gsoelim -> soelim
+-rwxr-xr-x    1 root root       22616 Mar 22  2017 gss-client
+-rwxr-xr-x    1 root root        1124 Mar 22  2017 gstack
+-rwxr-xr-x    1 root root       16136 Nov 11  2010 gst-feedback
+-rwxr-xr-x    1 root root        3173 Nov 11  2010 gst-feedback-0.10
+-rwxr-xr-x    1 root root       16136 Nov 11  2010 gst-inspect
+-rwxr-xr-x    1 root root       50920 Nov 11  2010 gst-inspect-0.10
+-rwxr-xr-x    1 root root       16136 Nov 11  2010 gst-launch
+-rwxr-xr-x    1 root root       34192 Nov 11  2010 gst-launch-0.10
+-rwxr-xr-x    1 root root       16136 Nov 11  2010 gst-typefind
+-rwxr-xr-x    1 root root       18808 Nov 11  2010 gst-typefind-0.10
+-rwxr-xr-x    1 root root       16144 Nov 11  2010 gst-xmlinspect
+-rwxr-xr-x    1 root root       27808 Nov 11  2010 gst-xmlinspect-0.10
+-rwxr-xr-x    1 root root       16136 Nov 11  2010 gst-xmllaunch
+-rwxr-xr-x    1 root root       34192 Nov 11  2010 gst-xmllaunch-0.10
+lrwxrwxrwx.   1 root root           3 Jul 27  2011 gtbl -> tbl
+-rwxr-xr-x    1 root root       23200 Mar 21  2017 gtk-query-immodules-2.0-64
+-rwxr-xr-x    1 root root       37320 Mar 21  2017 gtk-update-icon-cache
+-rwxr-xr-x    1 root root       10472 Mar 21  2017 gtnameserv
+lrwxrwxrwx.   1 root root           5 Jul 27  2011 gtroff -> troff
+lrwxrwxrwx    1 root root          16 May 22 16:10 gunzip -> ../../bin/gunzip
+-rwxr-xr-x    1 root root        5864 Mar 21  2017 gzexe
+lrwxrwxrwx    1 root root          14 May 22 16:10 gzip -> ../../bin/gzip
+-rwxr-xr-x    1 root root       28036 Mar 22  2017 h2ph
+-rwxr-xr-x    1 root root       60385 Mar 22  2017 h2xs
+-rwxr-xr-x    1 root root       22272 Oct 15  2014 hal-device
+-rwxr-xr-x    1 root root       16824 Oct 15  2014 hal-disable-polling
+-rwxr-xr-x    1 root root       12504 Oct 15  2014 hal-find-by-capability
+-rwxr-xr-x    1 root root       12632 Oct 15  2014 hal-find-by-property
+-rwxr-xr-x    1 root root       14768 Oct 15  2014 hal-get-property
+-rwxr-xr-x    1 root root       12448 Oct 15  2014 hal-is-caller-locked-out
+-rwxr-xr-x    1 root root       17456 Oct 15  2014 hal-lock
+-rwxr-xr-x    1 root root       16664 Oct 15  2014 hal-set-property
+-rwxr-xr-x    1 root root       38856 Oct 15  2014 hal-setup-keymap
+lrwxrwxrwx.   1 root root          13 Jul 27  2011 halt -> consolehelper
+-rwxr-xr-x    1 root root       10504 Nov 11  2010 hdifftopam
+-rwxr-xr-x    1 root root       36136 Mar 22  2017 head
+-rwxr-xr-x    1 root root       14519 Mar 22  2017 HEAD
+-rwxr-xr-x    1 root root       25464 Mar 22  2017 hexdump
+-rwxr-xr-x    1 root root       10280 Nov 11  2010 hipstopgm
+-rwxr-xr-x    1 root root      136952 Jul  5 05:55 host
+-rwxr-xr-x    1 root root       25600 Mar 22  2017 hostid
+-rwxr-xr-x    1 root root         764 Nov 11  2010 hpcdtoppm
+-rwxr-xr-x    1 root root       24672 Nov 11  2010 hpftodit
+-rwxr-xr-x    1 root root      170710 May  6  2014 htop
+-rwxr-xr-x    1 root root       70616 Oct 15  2014 hugeadm
+-rwxr-xr-x    1 root root       16424 Oct 15  2014 hugectl
+-rwxr-xr-x    1 root root       11696 Oct 15  2014 hugeedit
+-rwxr-xr-x    1 root root       12344 Oct 15  2014 huge_page_setup_helper.py
+-rwxr-xr-x    1 root root       60256 Nov 11  2010 hunspell
+lrwxrwxrwx    1 root root           7 May 22 16:10 i386 -> setarch
+-rwxr-xr-x    1 root root       10808 Nov 11  2010 icontopbm
+-rwxr-xr-x    1 root root       63024 Jun 19 23:38 iconv
+-rwxr-xr-x    1 root root       32720 Mar 22  2017 id
+-rwxr-xr-x    1 root root       12160 Nov 11  2010 ident
+-rwxr-xr-x    1 root root       36232 Aug 23  2010 idn
+-rwxr-xr-x    1 root root       21560 Mar 22  2017 iecset
+-rwxr-xr-x.   1 root root        4049 Nov 10  2010 ifnames
+-rwxr-xr-x    1 root root        3091 Nov 10  2015 igawk
+-rwxr-xr-x    1 root root       40272 Nov 11  2010 ilbmtoppm
+-rwxr-xr-x    1 root root       11080 Nov 11  2010 imgtoppm
+-rwxr-xr-x    1 root root       76928 Jun 22  2012 indent
+-rwxr-xr-x    1 root root       32288 Nov 11  2010 indxbib
+-rwxr-xr-x    1 root root      186096 Aug 20  2010 info
+-rwxr-xr-x    1 root root       55720 Mar 16  2015 infocmp
+-rwxr-xr-x    1 root root       25664 Aug 20  2010 infokey
+lrwxrwxrwx    1 root root           3 Aug  8  2016 infotocap -> tic
+-rwxr-xr-x    1 root root       14568 Nov 11  2010 infotopam
+-rwxr-xr-x    1 root root      111568 Mar 22  2017 install
+-rwxr-xr-x    1 root root        4374 May 26  2014 install-catalog
+-rwxr-xr-x    1 root root        4253 Mar 22  2017 instmodsh
+-rwxr-xr-x    1 root root       49288 Aug 19  2010 interdiff
+-rwxr-xr-x.   1 root root       27980 Aug 19  2010 intltool-extract
+-rwxr-xr-x.   1 root root        7152 Aug 19  2010 intltoolize
+-rwxr-xr-x.   1 root root       39941 Aug 19  2010 intltool-merge
+-rwxr-xr-x.   1 root root        8605 Aug 19  2010 intltool-prepare
+-rwxr-xr-x.   1 root root       34549 Aug 19  2010 intltool-update
+-rwxr-xr-x    1 root root       18792 Mar 22  2017 ionice
+-rwxr-xr-x    1 root root       71544 Mar 22  2017 iostat
+-rwxr-xr-x    1 root root      129048 Mar 22  2017 ipa-getcert
+-rwxr-xr-x    1 root root       18296 Mar 22  2017 ipcmk
+-rwxr-xr-x    1 root root       12560 Mar 22  2017 ipcrm
+-rwxr-xr-x    1 root root       23120 Mar 22  2017 ipcs
+-rwxr-xr-x    1 root root       10808 Mar 22  2017 isosize
+-rwxr-xr-x    1 root root         988 Nov 10  2010 ispell
+lrwxrwxrwx    1 root root          22 May 22 16:11 java -> /etc/alternatives/java
+-rwxr-xr-x    1 root root       60096 Nov 11  2010 jbigtopnm
+-rwxr-xr-x    1 root root       42896 Mar 22  2017 join
+-rwxr-xr-x    1 root root       15368 Nov 11  2010 jpeg2ktopam
+-rwxr-xr-x    1 root root       32512 Nov 11  2010 jpegtopnm
+-rwxr-xr-x    1 root root       31728 Dec  9  2013 jpegtran
+-rwxr-xr-x    1 root root       35088 Aug 21  2010 json_reformat
+-rwxr-xr-x    1 root root       26640 Aug 21  2010 json_verify
+-rwxr-xr-x    1 root root       10408 Mar 21  2017 jv-convert
+-rwxr-xr-x    1 root root        1757 Dec 15  2004 jvmjar
+-rwxr-xr-x    1 root root        1914 Mar 22  2017 k5srvutil
+-rwxr-xr-x    1 root root       75872 Mar 22  2017 kadmin
+-rwxr-xr-x    1 root root       11648 Nov 11  2010 kbdrate
+-rwxr-xr-x    1 root root       10256 Mar 22  2017 kdestroy
+lrwxrwxrwx    1 root root          25 May 22 16:11 keytool -> /etc/alternatives/keytool
+lrwxrwxrwx    1 root root          14 May 22 16:10 kill -> ../../bin/kill
+-rwxr-xr-x    1 root root       24464 Mar 22  2017 killall
+-rwxr-xr-x    1 root root       26640 Mar 22  2017 kinit
+-rwxr-xr-x    1 root root       26640 Mar 22  2017 klist
+-rwxr-xr-x    1 root root       10256 Mar 22  2017 kpasswd
+-rwxr-xr-x    1 root root        8968 Sep 22  2015 kpseaccess
+lrwxrwxrwx    1 root root           8 Aug  8  2016 kpsepath -> kpsetool
+-rwxr-xr-x    1 root root        9080 Sep 22  2015 kpsereadlink
+-rwxr-xr-x    1 root root        9800 Sep 22  2015 kpsestat
+-rwxr-xr-x    1 root root        3457 Sep 22  2015 kpsetool
+-rwxr-xr-x    1 root root        1441 Sep 22  2015 kpsewhere
+-rwxr-xr-x    1 root root       24664 Sep 22  2015 kpsewhich
+lrwxrwxrwx    1 root root           8 Aug  8  2016 kpsexpand -> kpsetool
+-rwxr-xr-x    1 root root        6242 Mar 22  2017 krb5-config
+-rwsr-xr-x    1 root root       59408 Mar 22  2017 ksu
+-rwxr-xr-x    1 root root       10256 Mar 22  2017 kswitch
+-rwxr-xr-x    1 root root       22544 Mar 22  2017 ktutil
+-rwxr-xr-x    1 root root       14352 Mar 22  2017 kvno
+-rwxr-xr-x    1 root root       64760 Sep 22  2015 lacheck
+lrwxrwxrwx    1 root root           5 Aug  8  2016 lambda -> omega
+lrwxrwxrwx    1 root root           5 Aug  8  2016 lamed -> aleph
+-rwxr-xr-x    1 root root       20360 Jul 23  2015 last
+lrwxrwxrwx    1 root root           4 Aug  8  2016 lastb -> last
+-rwxr-xr-x    1 root root       23432 Mar 22  2017 lastcomm
+-rwxr-xr-x    1 root root       14352 May 10  2016 lastlog
+lrwxrwxrwx    1 root root           6 Aug  8  2016 latex -> pdftex
+-rwxr-xr-x    1 root root       98088 Nov 11  2010 latrace
+lrwxrwxrwx.   1 root root           7 Jul 27  2011 latrace-ctl -> latrace
+-rwxr-xr-x    1 root root       33432 Jul 25  2015 lchfn
+-rwxr-xr-x    1 root root       30848 Jul 25  2015 lchsh
+-rwxr-xr-x    1 root root      595160 Apr 11 10:49 ld
+-rwxr-xr-x    1 root root        5325 Jun 19 23:24 ldd
+-rwxr-xr-x    1 root root       11968 Nov 11  2010 leaftoppm
+-rwxr-xr-x    1 root root      154416 Jun 16  2014 less
+-rwxr-xr-x    1 root root       10656 Jun 16  2014 lessecho
+-rwxr-xr-x    1 root root       18840 Jun 16  2014 lesskey
+-rwxr-xr-x    1 root root        2804 Jun  4  2014 lesspipe.sh
+lrwxrwxrwx    1 root root           4 Aug  8  2016 lex -> flex
+-rwxr-xr-x    1 root root       15724 Mar 22  2017 libnetcfg
+-rwxr-xr-x    1 root root       15032 Oct 10  2013 libtar
+-rwxr-xr-x.   1 root root      283333 Aug 24  2010 libtool
+-rwxr-xr-x.   1 root root       68161 Aug 24  2010 libtoolize
+lrwxrwxrwx    1 root root          23 Aug  8  2016 links -> /etc/alternatives/links
+lrwxrwxrwx    1 root root           7 May 22 16:10 linux32 -> setarch
+lrwxrwxrwx    1 root root           7 May 22 16:10 linux64 -> setarch
+-rwxr-xr-x    1 root root       10432 Nov 11  2010 lispmtopgm
+-rwxr-xr-x    1 root root       41072 Nov 11  2010 lkbib
+-rwxr-xr-x    1 root root       26136 Nov 11  2010 loadunimap
+-rwxr-xr-x    1 root root       41368 Jun 19 23:38 locale
+-rwxr-xr-x    1 root root      329640 Jun 19 23:38 localedef
+-rwxr-xr-x    1 root root      133144 Mar 22  2017 local-getcert
+-rwx--s--x    1 root slocate    38464 Mar 12  2015 locate
+lrwxrwxrwx    1 root root          16 May 22 16:10 logger -> ../../bin/logger
+-rwxr-xr-x    1 root root       25696 Mar 22  2017 logname
+-rwxr-xr-x    1 root root       11736 Mar 22  2017 look
+-rwxr-xr-x    1 root root       40944 Nov 11  2010 lookbib
+lrwxrwxrwx    1 root root          26 Jun 16 16:00 lp -> /etc/alternatives/print-lp
+-rwxr-xr-x    1 root root       12908 Jan  6  2012 lpansi
+-rwxr-xr-x    1 root root       18824 May 30 17:17 lp.cups
+-rwxr-xr-x    1 root root       14704 May 30 17:17 lpoptions
+-rwxr-xr-x    1 root root       14720 May 30 17:17 lppasswd
+lrwxrwxrwx    1 root root          27 Jun 16 16:00 lpq -> /etc/alternatives/print-lpq
+-rwxr-xr-x    1 root root       14720 May 30 17:17 lpq.cups
+lrwxrwxrwx    1 root root          23 Jun 16 16:00 lpr -> /etc/alternatives/print
+-rwxr-xr-x    1 root root       14696 May 30 17:17 lpr.cups
+lrwxrwxrwx    1 root root          28 Jun 16 16:00 lprm -> /etc/alternatives/print-lprm
+-rwxr-xr-x    1 root root       10456 May 30 17:17 lprm.cups
+-rwxr-xr-x    1 root root        4661 May 15 11:29 lprsetup.sh
+lrwxrwxrwx    1 root root          30 Jun 16 16:00 lpstat -> /etc/alternatives/print-lpstat
+-rwxr-xr-x    1 root root       27352 May 30 17:17 lpstat.cups
+-rwxr-xr-x    1 root root       13080 Mar 22  2017 lsattr
+-rwxr-xr-x    1 root root       15929 Feb 22  2013 lsb_release
+-rwxr-xr-x    1 root root       55216 Mar 22  2017 lscpu
+lrwxrwxrwx.   1 root root          10 Jul 27  2011 lsdiff -> filterdiff
+-rwxr-xr-x    1 root root       28560 Oct 15  2014 lshal
+-rwxr-xr-x    1 root root       52000 Mar 22  2017 lslogins
+-rwxr-xr-x    1 root root      108024 May 11  2016 lsusb
+-rwxr-xr-x    1 root root       13406 May 11  2016 lsusb.py
+-rwxr-xr-x    1 root root      114232 Oct 15  2014 ltrace
+-rwxr-xr-x    1 root root       17872 Aug 19  2010 lua
+-rwxr-xr-x    1 root root      116088 Aug 19  2010 luac
+-rwxr-xr-x    1 root root        8080 Mar 22  2017 lwp-download
+-rwxr-xr-x    1 root root        2607 Mar 22  2017 lwp-dump
+-rwxr-xr-x    1 root root        2389 Mar 22  2017 lwp-mirror
+-rwxr-xr-x    1 root root       14519 Mar 22  2017 lwp-request
+-rwxr-xr-x    1 root root       15062 Mar 22  2017 lwp-rget
+-rwxr-xr-x    1 root root     1408960 Aug 25  2010 lynx
+lrwxrwxrwx    1 root root           2 Aug  8  2016 lzcat -> xz
+lrwxrwxrwx    1 root root           6 Aug  8  2016 lzcmp -> xzdiff
+lrwxrwxrwx    1 root root           6 Aug  8  2016 lzdiff -> xzdiff
+lrwxrwxrwx    1 root root           6 Aug  8  2016 lzegrep -> xzgrep
+lrwxrwxrwx    1 root root           6 Aug  8  2016 lzfgrep -> xzgrep
+lrwxrwxrwx    1 root root           6 Aug  8  2016 lzgrep -> xzgrep
+lrwxrwxrwx    1 root root           6 Aug  8  2016 lzless -> xzless
+lrwxrwxrwx    1 root root           2 Aug  8  2016 lzma -> xz
+-rwxr-xr-x    1 root root       15472 Jun 19  2014 lzmadec
+-rwxr-xr-x    1 root root       12864 Jun 19  2014 lzmainfo
+lrwxrwxrwx    1 root root           6 Aug  8  2016 lzmore -> xzmore
+-rwxr-xr-x    1 root root      212440 Nov 11  2010 m4
+lrwxrwxrwx.   1 root root           8 Jul 28  2011 mac2unix -> dos2unix
+-rwxr-xr-x    1 root root        9936 Nov 11  2010 macptopbm
+-rwxr-xr-x    1 root root       10376 Sep 22  2015 mag
+lrwxrwxrwx    1 root root          27 Aug  8  2016 Mail -> /etc/alternatives/mail-Mail
+lrwxrwxrwx    1 root root          27 May 22 16:10 mailq -> /etc/alternatives/mta-mailq
+lrwxrwxrwx    1 root root          31 May 22 16:10 mailq.postfix -> ../../usr/sbin/sendmail.postfix
+-rwxr-xr-x    1 root root     1156672 May  3  2012 mailutil
+-rwxr-xr-x    1 root root      173208 May 10  2016 make
+-rwxr-xr-x    1 root root       85056 Sep 22  2015 makeindex
+-rwxr-xr-x    1 root root      260304 Aug 20  2010 makeinfo
+-rwxr-xr-x    1 root root       21744 Sep 22  2015 makempx
+-rwxr-xr-x    1 root root       56120 Mar 21  2017 man
+-rwxr-xr-x    1 root root       62296 Mar 21  2017 man2html
+lrwxrwxrwx    1 root root           3 May 22 16:10 manpath -> man
+-rwxr-xr-x    1 root root       12479 Nov 11  2010 manweb
+-rwxr-xr-x    1 root root       21040 Nov 11  2010 mapscrn
+-rwxr-xr-x    1 root root      621880 Mar 23  2017 mbchk
+-rwxr-xr-x    1 root root       14264 Mar 22  2017 mcookie
+-rwxr-xr-x    1 root root       36112 Mar 22  2017 md5sum
+-rwxr-xr-x    1 root root       12224 Nov 11  2010 mdatopbm
+-rwxr-xr-x    1 root root       13560 Oct 15  2014 memhog
+-rwxr-xr-x    1 root root       64552 Nov 11  2010 merge
+-rwxr-xr-x    1 root root        9800 Jul 23  2015 mesg
+-rwxr-xr-x    1 root root      114576 Mar 31  2015 metaflac
+-rwxr-xr-x    1 root root      277168 Sep 22  2015 mf
+-rwxr-xr-x    1 root root      260960 Sep 22  2015 mf-nowin
+-rwxr-xr-x    1 root root       54728 Sep 22  2015 mft
+-rwxr-xr-x    1 root root       10248 Nov 11  2010 mgrtopbm
+-rwxr-xr-x    1 root root       12712 Oct 15  2014 migratepages
+-rwxr-xr-x    1 root root       15520 Oct 15  2014 migspeed
+-rwxr-xr-x    1 root root       29784 Mar 22  2017 mkfifo
+-rwxr-xr-x    1 root root         131 Dec  7  2011 mkfontdir
+-rwxr-xr-x    1 root root       34840 Dec  7  2011 mkfontscale
+-rwxr-xr-x    1 root root         947 Sep 22  2015 mkindex
+-rwxr-xr-x    1 root root         171 Sep 22  2015 mkocp
+-rwxr-xr-x    1 root root          83 Sep 22  2015 mkofm
+lrwxrwxrwx    1 root root           7 Aug  8  2016 mktexfmt -> fmtutil
+-rwxr-xr-x    1 root root        5794 Sep 22  2015 mktexlsr
+-rwxr-xr-x    1 root root        3847 Sep 22  2015 mktexmf
+-rwxr-xr-x    1 root root        9126 Sep 22  2015 mktexpk
+-rwxr-xr-x    1 root root        4830 Sep 22  2015 mktextfm
+lrwxrwxrwx    1 root root           6 Aug  8  2016 mllatex -> pdftex
+lrwxrwxrwx    1 root root           6 Aug  8  2016 mltex -> pdftex
+-rwxr-xr-x    1 root root      161064 May 30 11:46 modutil
+-rwxr-xr-x    1 root root      374344 Sep 22  2015 mpost
+-rwxr-xr-x    1 root root       61144 Mar 22  2017 mpstat
+-rwxr-xr-x    1 root root       13528 Sep 22  2015 mpto
+-rwxr-xr-x    1 root root       10768 Nov 11  2010 mrftopbm
+-rwxr-xr-x    1 root root       24096 Jun  2  2014 msgattrib
+-rwxr-xr-x    1 root root       24376 Jun  2  2014 msgcat
+-rwxr-xr-x    1 root root       18152 Jun  2  2014 msgcmp
+-rwxr-xr-x    1 root root       22736 Jun  2  2014 msgcomm
+-rwxr-xr-x    1 root root       20032 Jun  2  2014 msgconv
+-rwxr-xr-x    1 root root       19936 Jun  2  2014 msgen
+-rwxr-xr-x    1 root root       16664 Jun  2  2014 msgexec
+-rwxr-xr-x    1 root root       26368 Jun  2  2014 msgfilter
+-rwxr-xr-x    1 root root       69360 Jun  2  2014 msgfmt
+-rwxr-xr-x    1 root root      105624 Jun  2  2014 msggrep
+-rwxr-xr-x    1 root root       12806 Apr 28  2014 msghack
+-rwxr-xr-x    1 root root       45512 Jun  2  2014 msginit
+-rwxr-xr-x    1 root root       45704 Jun  2  2014 msgmerge
+-rwxr-xr-x    1 root root       31952 Jun  2  2014 msgunfmt
+-rwxr-xr-x    1 root root       21768 Jun  2  2014 msguniq
+-rwxr-xr-x    1 root root       24211 Mar 22  2017 ms_print
+-rwxr-xr-x    1 root root        9960 Nov 11  2010 mtvtoppm
+-rwxr-xr-x    1 root root       20784 Sep 22  2015 musixflx
+lrwxrwxrwx    1 root root          15 Aug  8  2016 nail -> ../../bin/mailx
+-rwxr-xr-x    1 root root       16376 Mar 22  2017 namei
+lrwxrwxrwx.   1 root root          14 Jul 27  2011 nano -> ../../bin/nano
+-rwxr-xr-x    1 root root       26376 Dec  8  2014 nc
+-rwxr-xr-x    1 root root        4982 Mar 16  2015 ncurses5-config
+-rwxr-xr-x    1 root root        4985 Mar 16  2015 ncursesw5-config
+-rwxr-xr-x    1 root root        5740 Mar 22  2017 needs-restarting
+-rwxr-xr-x    1 root root        9936 Nov 11  2010 neotoppm
+-rwxr-xr-x.   1 root root         255 Nov 11  2010 neqn
+-rwxr-xr-x    1 root root     8734344 Sep 21 06:39 net
+-rwxr-xr-x    1 root root         920 Dec  7  2011 netaddr
+lrwxrwxrwx    1 root root          32 May 22 16:10 newaliases -> /etc/alternatives/mta-newaliases
+lrwxrwxrwx    1 root root          31 May 22 16:10 newaliases.postfix -> ../../usr/sbin/sendmail.postfix
+-rwxr-xr-x    1 root root        9976 Sep 22  2015 newer
+-rwsr-xr-x    1 root root       40240 May 10  2016 newgrp
+lrwxrwxrwx    1 root root          12 Aug  8  2016 nfs4_editfacl -> nfs4_setfacl
+-rwxr-xr-x    1 root root       16944 May 11  2016 nfs4_getfacl
+-rwxr-xr-x    1 root root       29056 May 11  2016 nfs4_setfacl
+-rwxr-xr-x    1 root root       32936 Jun  2  2014 ngettext
+-rwxr-xr-x    1 root root      100656 Mar 22  2017 nl
+-rwxr-xr-x    1 root root       44328 Apr 11 10:49 nm
+-rwxr-xr-x    1 root root     1725400 Sep 21 06:39 nmblookup
+-rwxr-xr-x    1 root root       29768 Mar 22  2017 nohup
+-rwxr-xr-x.   1 root root         299 Aug 18  2010 nosetests
+-rwxr-xr-x    1 root root       27872 Mar 22  2017 nproc
+-rwxr-xr-x.   1 root root        2401 May 19  2009 nroff
+-rwxr-xr-x    1 root root       22832 Mar 22  2017 nsenter
+-rwxr-xr-x    1 root root      136888 Jul  5 05:55 nslookup
+-rwxr-xr-x    1 root root        2598 Mar 22  2017 nspr-config
+-rwxr-xr-x    1 root root        2431 May 30 11:46 nss-config
+-rwxr-xr-x    1 root root        2040 Jul 12  2016 nss-softokn-config
+-rwxr-xr-x    1 root root        1981 Apr 20 10:51 nss-util-config
+-rwxr-xr-x    1 root root       77336 Jul  5 05:55 nsupdate
+-rwxr-xr-x    1 root root     3272992 Sep 21 06:39 ntlm_auth
+-rwxr-xr-x    1 root root       10256 Feb  6  2017 ntpstat
+-rwxr-xr-x    1 root root       31216 Oct 15  2014 numactl
+-rwxr-xr-x    1 root root       46272 Oct 15  2014 numademo
+-rwxr-xr-x    1 root root       28672 Oct 15  2014 numastat
+-rwxr-xr-x    1 root root      219040 Apr 11 10:49 objcopy
+-rwxr-xr-x    1 root root      288128 Apr 11 10:49 objdump
+-rwxr-xr-x    1 root root      160896 Mar 21  2017 ocount
+-rwxr-xr-x    1 root root        7275 May 10  2016 ocs
+-rwxr-xr-x    1 root root       62176 Mar 22  2017 od
+-rwxr-xr-x    1 root root       36376 May 10  2016 oddjob_request
+lrwxrwxrwx    1 root root           5 Aug  8  2016 odvips -> dvips
+lrwxrwxrwx    1 root root           7 Aug  8  2016 ofm2opl -> omfonts
+-rwxr-xr-x    1 root root      236352 Mar  1  2016 oldfind
+-rwxr-xr-x    1 root root      478944 Sep 22  2015 omega
+-rwxr-xr-x    1 root root      120264 Sep 22  2015 omfonts
+-rwxr-xr-x    1 root root        1611 Oct 15  2014 on_ac_power
+-rwxr-xr-x    1 root root     1275336 Mar 21  2017 opannotate
+-rwxr-xr-x    1 root root     1166520 Mar 21  2017 oparchive
+-rwxr-xr-x    1 root root        9192 Mar 21  2017 op-check-perfevents
+-rwxr-xr-x    1 root root       57188 Mar 21  2017 opcontrol
+lrwxrwxrwx.   1 root root           6 Jul 27  2011 open -> openvt
+-rwxr-xr-x    1 root root      548184 Mar 22  2017 openssl
+-rwxr-xr-x    1 root root       16584 Nov 11  2010 openvt
+-rwxr-xr-x    1 root root      272184 Mar 21  2017 operf
+-rwxr-xr-x    1 root root     1199616 Mar 21  2017 opgprof
+-rwxr-xr-x    1 root root       66872 Mar 21  2017 ophelp
+-rwxr-xr-x    1 root root       73392 Mar 21  2017 opimport
+-rwxr-xr-x    1 root root      794904 Mar 21  2017 opjitconv
+lrwxrwxrwx    1 root root           7 Aug  8  2016 opl2ofm -> omfonts
+-rwxr-xr-x    1 root root     1388464 Mar 21  2017 opreport
+-rwxr-xr-x    1 root root      105016 Mar 21  2017 oprofiled
+-rwxr-xr-x    1 root root      255992 Mar 21  2017 oprof_start
+lrwxrwxrwx    1 root root          22 May 22 16:11 orbd -> /etc/alternatives/orbd
+-rwxr-xr-x    1 root root       44432 Sep 22  2015 otangle
+-rwxr-xr-x    1 root root       32224 Aug 19  2010 otfdump
+-rwxr-xr-x    1 root root       12272 Aug 19  2010 otflist
+-rwxr-xr-x    1 root root       12064 Aug 19  2010 otftobdf
+-rwxr-xr-x    1 root root       72216 Aug 19  2010 otfview
+-rwxr-xr-x    1 root root       38160 Sep 22  2015 otp2ocp
+-rwxr-xr-x    1 root root       12888 Sep 22  2015 outocp
+lrwxrwxrwx    1 root root           7 Aug  8  2016 ovf2ovp -> omfonts
+lrwxrwxrwx    1 root root           7 Aug  8  2016 ovp2ovf -> omfonts
+-rwxr-xr-x    1 root root      123248 Jan 28  2014 p11-kit
+lrwxrwxrwx    1 root root          25 May 22 16:11 pack200 -> /etc/alternatives/pack200
+-rwxr-xr-x    1 root root       16748 Mar 22  2017 package-cleanup
+-rwxr-xr-x    1 root root       35088 Oct 15  2014 pagesize
+-rwxr-xr-x    1 root root       15464 Feb  1  2017 pal2rgb
+-rwxr-xr-x    1 root root       23080 Nov 11  2010 palmtopnm
+-rwxr-xr-x    1 root root       15360 Nov 11  2010 pamaddnoise
+-rwxr-xr-x    1 root root       16432 Nov 11  2010 pamarith
+-rwxr-xr-x    1 root root       13200 Nov 11  2010 pambackground
+-rwxr-xr-x    1 root root       11240 Nov 11  2010 pambayer
+-rwxr-xr-x    1 root root       11216 Nov 11  2010 pamchannel
+-rwxr-xr-x    1 root root       17936 Nov 11  2010 pamcomp
+-rwxr-xr-x    1 root root       17056 Nov 11  2010 pamcut
+-rwxr-xr-x    1 root root       10328 Nov 11  2010 pamdeinterlace
+-rwxr-xr-x    1 root root       10856 Nov 11  2010 pamdepth
+-rwxr-xr-x    1 root root       13368 Nov 11  2010 pamdice
+-rwxr-xr-x    1 root root       21656 Nov 11  2010 pamditherbw
+-rwxr-xr-x    1 root root       10712 Nov 11  2010 pamedge
+-rwxr-xr-x    1 root root        9080 Nov 11  2010 pamendian
+-rwxr-xr-x    1 root root       11864 Nov 11  2010 pamenlarge
+-rwxr-xr-x    1 root root       11544 Nov 11  2010 pamfile
+-rwxr-xr-x    1 root root       10824 Nov 11  2010 pamfixtrunc
+-rwxr-xr-x    1 root root       19312 Nov 11  2010 pamflip
+-rwxr-xr-x    1 root root       13424 Nov 11  2010 pamfunc
+-rwxr-xr-x    1 root root       11424 Nov 11  2010 pamgauss
+-rwxr-xr-x    1 root root       11408 Nov 11  2010 pamgradient
+-rwxr-xr-x    1 root root       12680 Nov 11  2010 pamlookup
+-rwxr-xr-x    1 root root       11520 Nov 11  2010 pammasksharpen
+-rwxr-xr-x    1 root root       12272 Nov 11  2010 pammixinterlace
+-rwxr-xr-x    1 root root       10568 Nov 11  2010 pamoil
+-rwxr-xr-x    1 root root       25472 Nov 11  2010 pamperspective
+-rwxr-xr-x    1 root root       11232 Nov 11  2010 pampick
+-rwxr-xr-x    1 root root       10096 Nov 11  2010 pampop9
+-rwxr-xr-x    1 root root       11208 Nov 11  2010 pamrgbatopng
+-rwxr-xr-x    1 root root       27952 Nov 11  2010 pamscale
+-rwxr-xr-x    1 root root       11304 Nov 11  2010 pamseq
+-rwxr-xr-x    1 root root       10624 Nov 11  2010 pamsharpmap
+-rwxr-xr-x    1 root root        9928 Nov 11  2010 pamsharpness
+-rwxr-xr-x    1 root root       12656 Nov 11  2010 pamsistoaglyph
+-rwxr-xr-x    1 root root       10640 Nov 11  2010 pamslice
+-rwxr-xr-x    1 root root       11200 Nov 11  2010 pamsplit
+-rwxr-xr-x    1 root root       11592 Nov 11  2010 pamstack
+-rwxr-xr-x    1 root root       18736 Nov 11  2010 pamstereogram
+-rwxr-xr-x    1 root root       13064 Nov 11  2010 pamstretch
+-rwxr-xr-x    1 root root        2184 Nov 11  2010 pamstretch-gen
+-rwxr-xr-x    1 root root       10872 Nov 11  2010 pamsumm
+-rwxr-xr-x    1 root root       11504 Nov 11  2010 pamsummcol
+-rwxr-xr-x    1 root root       15712 Nov 11  2010 pamthreshold
+-rwxr-xr-x    1 root root       16544 Nov 11  2010 pamtilt
+-rwxr-xr-x    1 root root       11944 Nov 11  2010 pamtodjvurle
+-rwxr-xr-x    1 root root       11768 Nov 11  2010 pamtofits
+-rwxr-xr-x    1 root root       20944 Nov 11  2010 pamtogif
+-rwxr-xr-x    1 root root        9960 Nov 11  2010 pamtohdiff
+-rwxr-xr-x    1 root root       12168 Nov 11  2010 pamtohtmltbl
+-rwxr-xr-x    1 root root       18408 Nov 11  2010 pamtojpeg2k
+-rwxr-xr-x    1 root root       10344 Nov 11  2010 pamtompfont
+-rwxr-xr-x    1 root root       11808 Nov 11  2010 pamtooctaveimg
+-rwxr-xr-x    1 root root        9416 Nov 11  2010 pamtopam
+-rwxr-xr-x    1 root root       11136 Nov 11  2010 pamtopfm
+-rwxr-xr-x    1 root root       10384 Nov 11  2010 pamtopnm
+-rwxr-xr-x    1 root root       79104 Nov 11  2010 pamtosvg
+-rwxr-xr-x    1 root root       16648 Nov 11  2010 pamtotga
+-rwxr-xr-x    1 root root       33616 Nov 11  2010 pamtotiff
+-rwxr-xr-x    1 root root       13392 Nov 11  2010 pamtouil
+-rwxr-xr-x    1 root root       11160 Nov 11  2010 pamtoxvmini
+-rwxr-xr-x    1 root root       14984 Nov 11  2010 pamundice
+-rwxr-xr-x    1 root root       38472 Nov 11  2010 pamx
+-rwxr-xr-x    1 root root       18640 Feb  3  2016 pango-querymodules-64
+-rwxr-xr-x    1 root root       62320 Feb  3  2016 pango-view
+-rwsr-xr-x    1 root root       30768 Nov 23  2015 passwd
+-rwxr-xr-x    1 root root       29136 Mar 22  2017 paste
+-rwxr-xr-x    1 root root      118800 Nov 12  2010 patch
+-rwxr-xr-x    1 root root       34128 Sep 22  2015 patgen
+-rwxr-xr-x    1 root root       27888 Mar 22  2017 pathchk
+-rwxr-xr-x    1 root root      113560 Aug 19  2010 pax
+-rwxr-xr-x    1 root root       10992 Nov 11  2010 pbmclean
+-rwxr-xr-x    1 root root        9472 Nov 11  2010 pbmlife
+-rwxr-xr-x    1 root root       10272 Nov 11  2010 pbmmake
+-rwxr-xr-x    1 root root       11528 Nov 11  2010 pbmmask
+-rwxr-xr-x    1 root root        9920 Nov 11  2010 pbmminkowski
+-rwxr-xr-x    1 root root       11624 Nov 11  2010 pbmpage
+-rwxr-xr-x    1 root root       11768 Nov 11  2010 pbmpscale
+-rwxr-xr-x    1 root root       11952 Nov 11  2010 pbmreduce
+-rwxr-xr-x    1 root root       16112 Nov 11  2010 pbmtext
+-rwxr-xr-x    1 root root       15304 Nov 11  2010 pbmtextps
+-rwxr-xr-x    1 root root       11032 Nov 11  2010 pbmto10x
+-rwxr-xr-x    1 root root        9984 Nov 11  2010 pbmto4425
+-rwxr-xr-x    1 root root       10592 Nov 11  2010 pbmtoascii
+-rwxr-xr-x    1 root root       10832 Nov 11  2010 pbmtoatk
+-rwxr-xr-x    1 root root        9944 Nov 11  2010 pbmtobbnbg
+-rwxr-xr-x    1 root root        9608 Nov 11  2010 pbmtocmuwm
+-rwxr-xr-x    1 root root       10296 Nov 11  2010 pbmtodjvurle
+-rwxr-xr-x    1 root root       10472 Nov 11  2010 pbmtoepsi
+-rwxr-xr-x    1 root root       11440 Nov 11  2010 pbmtoepson
+-rwxr-xr-x    1 root root       10936 Nov 11  2010 pbmtoescp2
+-rwxr-xr-x    1 root root       14952 Nov 11  2010 pbmtog3
+-rwxr-xr-x    1 root root       10920 Nov 11  2010 pbmtogem
+-rwxr-xr-x    1 root root       11392 Nov 11  2010 pbmtogo
+-rwxr-xr-x    1 root root       11560 Nov 11  2010 pbmtoibm23xx
+-rwxr-xr-x    1 root root       10376 Nov 11  2010 pbmtoicon
+-rwxr-xr-x    1 root root       13640 Nov 11  2010 pbmtolj
+-rwxr-xr-x    1 root root       11528 Nov 11  2010 pbmtoln03
+-rwxr-xr-x    1 root root       10872 Nov 11  2010 pbmtolps
+-rwxr-xr-x    1 root root       11232 Nov 11  2010 pbmtomacp
+-rwxr-xr-x    1 root root        9216 Nov 11  2010 pbmtomatrixorbital
+-rwxr-xr-x    1 root root       11432 Nov 11  2010 pbmtomda
+-rwxr-xr-x    1 root root        9296 Nov 11  2010 pbmtomgr
+-rwxr-xr-x    1 root root       10912 Nov 11  2010 pbmtomrf
+-rwxr-xr-x    1 root root       13760 Nov 11  2010 pbmtonokia
+-rwxr-xr-x    1 root root       10248 Nov 11  2010 pbmtopgm
+-rwxr-xr-x    1 root root        9960 Nov 11  2010 pbmtopi3
+-rwxr-xr-x    1 root root       22008 Nov 11  2010 pbmtopk
+-rwxr-xr-x    1 root root        9096 Nov 11  2010 pbmtoplot
+-rwxr-xr-x    1 root root       29192 Nov 11  2010 pbmtoppa
+-rwxr-xr-x    1 root root       13776 Nov 11  2010 pbmtopsg3
+-rwxr-xr-x    1 root root        9280 Nov 11  2010 pbmtoptx
+-rwxr-xr-x    1 root root        9384 Nov 11  2010 pbmtowbmp
+-rwxr-xr-x    1 root root        1384 Nov 11  2010 pbmtox10bm
+-rwxr-xr-x    1 root root       13792 Nov 11  2010 pbmtoxbm
+-rwxr-xr-x    1 root root        9536 Nov 11  2010 pbmtoybm
+-rwxr-xr-x    1 root root       10824 Nov 11  2010 pbmtozinc
+-rwxr-xr-x    1 root root       18112 Nov 11  2010 pbmupc
+-rwxr-xr-x    1 root root       10208 Nov 11  2010 pc1toppm
+-rwxr-xr-x    1 root root        5560 Nov 11  2010 pcdovtoppm
+-rwxr-xr-x    1 root root       32416 Jul 23  2015 pcregrep
+-rwxr-xr-x    1 root root       49384 Jul 23  2015 pcretest
+-rwxr-xr-x    1 root root       15408 Nov 11  2010 pcxtoppm
+-rwxr-xr-x    1 root root     2137704 Sep 21 06:39 pdbedit
+-rwxr-xr-x    1 root root         696 May 15 11:29 pdf2dsc
+-rwxr-xr-x    1 root root         901 May 15 11:29 pdf2ps
+-rwxr-xr-x    1 root root        8490 Sep 22  2015 pdfcrop
+lrwxrwxrwx    1 root root           6 Aug  8  2016 pdfcslatex -> pdftex
+lrwxrwxrwx    1 root root           6 Aug  8  2016 pdfcsplain -> pdftex
+lrwxrwxrwx    1 root root           6 Aug  8  2016 pdfetex -> pdftex
+-rwxr-xr-x    1 root root       22864 Aug 31 13:28 pdffonts
+-rwxr-xr-x    1 root root       49904 Aug 31 13:28 pdfimages
+-rwxr-xr-x    1 root root       28696 Aug 31 13:28 pdfinfo
+lrwxrwxrwx    1 root root           6 Aug  8  2016 pdflatex -> pdftex
+-rwxr-xr-x    1 root root         547 May 15 11:29 pdfopt
+-rwxr-xr-x    1 root root      666360 Sep 22  2015 pdftex
+-rwxr-xr-x    1 root root       93728 Aug 31 13:28 pdftohtml
+-rwxr-xr-x    1 root root       24320 Aug 31 13:28 pdftoppm
+-rwxr-xr-x    1 root root       24264 Aug 31 13:28 pdftops
+-rwxr-xr-x    1 root root       15352 Sep 22  2015 pdftosrc
+-rwxr-xr-x    1 root root       26288 Aug 31 13:28 pdftotext
+-rwxr-xr-x    1 root root       13000 Mar 22  2017 peekfd
+-rwxr-xr-x    1 root root     2202448 Sep 12 10:59 perf
+-rwxr-xr-x    2 root root       13304 Mar 22  2017 perl
+-rwxr-xr-x    2 root root       13304 Mar 22  2017 perl5.10.1
+-rwxr-xr-x    2 root root       44726 Mar 22  2017 perlbug
+-rwxr-xr-x    1 root root         224 Mar 22  2017 perldoc
+-rwxr-xr-x    1 root root       12303 Mar 22  2017 perlivp
+-rwxr-xr-x    1 root root       14809 Sep 22  2015 perltex
+-rwxr-xr-x    2 root root       44726 Mar 22  2017 perlthanks
+-rwxr-xr-x    1 root root         495 May 15 11:29 pf2afm
+-rwxr-xr-x    1 root root       12376 Sep 22  2015 pfb2pfa
+-rwxr-xr-x    1 root root         511 May 15 11:29 pfbtopfa
+-rwxr-xr-x    1 root root       10288 Nov 11  2010 pfbtops
+-rwxr-xr-x    1 root root       12816 Nov 11  2010 pfmtopam
+lrwxrwxrwx    1 root root           3 Aug  8  2016 pftp -> ftp
+-rwxr-xr-x    1 root root      383728 Nov 10  2015 pgawk
+-rwxr-xr-x    1 root root       14512 Nov 11  2010 pgmabel
+-rwxr-xr-x    1 root root        9088 Nov 11  2010 pgmbentley
+-rwxr-xr-x    1 root root       14504 Nov 11  2010 pgmcrater
+-rwxr-xr-x    1 root root       10264 Nov 11  2010 pgmdeshadow
+lrwxrwxrwx    1 root root           7 Jan 18  2012 pgmedge -> pamedge
+-rwxr-xr-x    1 root root       10272 Nov 11  2010 pgmenhance
+-rwxr-xr-x    1 root root       10264 Nov 11  2010 pgmhist
+-rwxr-xr-x    1 root root       10192 Nov 11  2010 pgmkernel
+-rwxr-xr-x    1 root root       10272 Nov 11  2010 pgmmake
+-rwxr-xr-x    1 root root       14120 Nov 11  2010 pgmmedian
+-rwxr-xr-x    1 root root       10800 Nov 11  2010 pgmminkowski
+-rwxr-xr-x    1 root root       11712 Nov 11  2010 pgmmorphconv
+-rwxr-xr-x    1 root root        9960 Nov 11  2010 pgmnoise
+lrwxrwxrwx    1 root root           7 Jan 18  2012 pgmnorm -> pnmnorm
+lrwxrwxrwx    1 root root           6 Jan 18  2012 pgmoil -> pamoil
+-rwxr-xr-x    1 root root       10832 Nov 11  2010 pgmramp
+lrwxrwxrwx    1 root root           8 Jan 18  2012 pgmslice -> pamslice
+-rwxr-xr-x    1 root root       25416 Nov 11  2010 pgmtexture
+-rwxr-xr-x    1 root root       10392 Nov 11  2010 pgmtofs
+-rwxr-xr-x    1 root root       10352 Nov 11  2010 pgmtolispm
+-rwxr-xr-x    1 root root          37 Nov 11  2010 pgmtopbm
+-rwxr-xr-x    1 root root        9120 Nov 11  2010 pgmtopgm
+-rwxr-xr-x    1 root root       11416 Nov 11  2010 pgmtoppm
+-rwxr-xr-x    2 root root       20528 Jul 12 11:38 pgrep
+lrwxrwxrwx    1 root root           6 Aug  8  2016 physe -> pdftex
+lrwxrwxrwx    1 root root           6 Aug  8  2016 phyzzx -> pdftex
+-rwxr-xr-x    1 root root        9928 Nov 11  2010 pi1toppm
+-rwxr-xr-x    1 root root        9968 Nov 11  2010 pi3topbm
+-rwxr-xr-x    1 root root      221304 Nov 11  2010 pic
+-rwxr-xr-x.   1 root root        2563 Nov 11  2010 pic2graph
+-rwxr-xr-x    1 root root      768012 May  3  2012 pico
+-rwxr-xr-x    1 root root        7337 Mar 22  2017 piconv
+-rwxr-xr-x    1 root root       71680 Mar 22  2017 pidstat
+-rwxr-xr-x    1 root root      765769 May  3  2012 pilot
+lrwxrwxrwx    1 root root           6 May 22 16:12 pine -> alpine
+-rwxr-xr-x    1 root root        2602 Feb 26  2015 pinentry
+-rwxr-xr-x    1 root root       53840 Mar 30  2015 pinentry-curses
+-rwxr-xr-x    1 root root      104104 Aug 20  2010 pinfo
+-rwxr-xr-x    1 root root       33520 Mar 22  2017 pinky
+-rwxr-xr-x    1 root root       13000 Nov 11  2010 pjtoppm
+-rwxr-xr-x    1 root root       90256 May 30 11:46 pk12util
+-rwxr-xr-x    1 root root       15856 Sep 22  2015 pk2bm
+-rwxr-xr-x    1 root root       14352 Mar 17  2015 pkaction
+-rwxr-xr-x    1 root root       14352 Mar 17  2015 pkcheck
+-rwsr-xr-x    1 root root       22544 Mar 17  2015 pkexec
+-rwxr-xr-x    1 root root      110656 Aug 18  2010 pkg-config
+-rwxr-xr-x    2 root root       20528 Jul 12 11:38 pkill
+-rwxr-xr-x    1 root root       25968 Sep 22  2015 pktogf
+-rwxr-xr-x    1 root root       17096 Nov 11  2010 pktopbm
+-rwxr-xr-x    1 root root       19288 Sep 22  2015 pktype
+-rwxr-xr-x    1 root root        4531 Mar 22  2017 pl2pm
+-rwxr-xr-x    1 root root       62960 Sep 22  2015 pltotf
+lrwxrwxrwx    1 root root          18 May 22 16:10 plymouth -> ../../bin/plymouth
+-rwxr-xr-x    1 root root       16288 Jul 12 11:38 pmap
+-rwxr-xr-x    1 root root         983 Oct 15  2014 pm-is-supported
+-rwxr-xr-x    1 root root         816 Oct 15  2014 pm-utils-bugreport-info.sh
+-rwxr-xr-x    1 root root       30080 Nov 11  2010 png2theora
+-rwxr-xr-x    1 root root       23872 Nov 11  2010 pngtopam
+-rwxr-xr-x    1 root root       22936 Nov 11  2010 pngtopnm
+-rwxr-xr-x    1 root root       13608 Nov 11  2010 pnmalias
+lrwxrwxrwx    1 root root           8 Jan 18  2012 pnmarith -> pamarith
+-rwxr-xr-x    1 root root       16944 Nov 11  2010 pnmcat
+-rwxr-xr-x    1 root root       17096 Nov 11  2010 pnmcolormap
+lrwxrwxrwx    1 root root           7 Jan 18  2012 pnmcomp -> pamcomp
+-rwxr-xr-x    1 root root       35024 Nov 11  2010 pnmconvol
+-rwxr-xr-x    1 root root       19152 Nov 11  2010 pnmcrop
+lrwxrwxrwx    1 root root           6 Jan 18  2012 pnmcut -> pamcut
+lrwxrwxrwx    1 root root           8 Jan 18  2012 pnmdepth -> pamdepth
+lrwxrwxrwx    1 root root          10 Jan 18  2012 pnmenlarge -> pamenlarge
+lrwxrwxrwx    1 root root           7 Jan 18  2012 pnmfile -> pamfile
+-rwxr-xr-x    1 root root        2493 Nov 11  2010 pnmflip
+-rwxr-xr-x    1 root root       17880 Nov 11  2010 pnmgamma
+-rwxr-xr-x    1 root root       13024 Nov 11  2010 pnmhisteq
+-rwxr-xr-x    1 root root       14648 Nov 11  2010 pnmhistmap
+-rwxr-xr-x    1 root root       15296 Nov 11  2010 pnmindex
+lrwxrwxrwx    1 root root          10 Jan 18  2012 pnminterp -> pamstretch
+-rwxr-xr-x    1 root root       10344 Nov 11  2010 pnminvert
+-rwxr-xr-x    1 root root        2374 Nov 11  2010 pnmmargin
+-rwxr-xr-x    1 root root       15416 Nov 11  2010 pnmmontage
+-rwxr-xr-x    1 root root       22896 Nov 11  2010 pnmnlfilt
+lrwxrwxrwx    1 root root          13 Jan 18  2012 pnmnoraw -> pnmtoplainpnm
+-rwxr-xr-x    1 root root       14520 Nov 11  2010 pnmnorm
+-rwxr-xr-x    1 root root       17488 Nov 11  2010 pnmpad
+-rwxr-xr-x    1 root root       13768 Nov 11  2010 pnmpaste
+-rwxr-xr-x    1 root root       12016 Nov 11  2010 pnmpsnr
+-rwxr-xr-x    1 root root        7859 Nov 11  2010 pnmquant
+-rwxr-xr-x    1 root root       19488 Nov 11  2010 pnmremap
+-rwxr-xr-x    1 root root       16512 Nov 11  2010 pnmrotate
+lrwxrwxrwx    1 root root           8 Jan 18  2012 pnmscale -> pamscale
+-rwxr-xr-x    1 root root       16648 Nov 11  2010 pnmscalefixed
+-rwxr-xr-x    1 root root       12176 Nov 11  2010 pnmshear
+-rwxr-xr-x    1 root root       11568 Nov 11  2010 pnmsmooth
+lrwxrwxrwx    1 root root           8 Jan 18  2012 pnmsplit -> pamsplit
+-rwxr-xr-x    1 root root       28008 Nov 11  2010 pnmstitch
+-rwxr-xr-x    1 root root        9960 Nov 11  2010 pnmtile
+-rwxr-xr-x    1 root root       17128 Nov 11  2010 pnmtoddif
+-rwxr-xr-x    1 root root      161096 Nov 11  2010 pnmtofiasco
+lrwxrwxrwx    1 root root           9 Jan 18  2012 pnmtofits -> pamtofits
+-rwxr-xr-x    1 root root       62320 Nov 11  2010 pnmtojbig
+-rwxr-xr-x    1 root root       22440 Nov 11  2010 pnmtojpeg
+-rwxr-xr-x    1 root root       24488 Nov 11  2010 pnmtopalm
+-rwxr-xr-x    1 root root       18104 Nov 11  2010 pnmtopclxl
+-rwxr-xr-x    1 root root          31 Nov 11  2010 pnmtoplainpnm
+-rwxr-xr-x    1 root root       41792 Nov 11  2010 pnmtopng
+lrwxrwxrwx    1 root root           8 Jan 18  2012 pnmtopnm -> pamtopnm
+-rwxr-xr-x    1 root root       28264 Nov 11  2010 pnmtops
+-rwxr-xr-x    1 root root       16584 Nov 11  2010 pnmtorast
+-rwxr-xr-x    1 root root       35712 Nov 11  2010 pnmtorle
+-rwxr-xr-x    1 root root       13424 Nov 11  2010 pnmtosgi
+-rwxr-xr-x    1 root root       10200 Nov 11  2010 pnmtosir
+lrwxrwxrwx    1 root root           9 Jan 18  2012 pnmtotiff -> pamtotiff
+-rwxr-xr-x    1 root root       30712 Nov 11  2010 pnmtotiffcmyk
+-rwxr-xr-x    1 root root       13264 Nov 11  2010 pnmtoxwd
+-rwxr-xr-x    1 root root        2338 Mar 22  2017 pod2html
+-rwxr-xr-x    1 root root       10255 Mar 22  2017 pod2latex
+-rwxr-xr-x    1 root root       21175 Mar 22  2017 pod2man
+-rwxr-xr-x    1 root root        9080 Mar 22  2017 pod2text
+-rwxr-xr-x    1 root root        3342 Mar 22  2017 pod2usage
+-rwxr-xr-x    1 root root        3699 Mar 22  2017 podchecker
+-rwxr-xr-x    1 root root        2527 Mar 22  2017 podselect
+-rwxr-xr-x    1 root root       16096 Sep 22  2015 pooltype
+-rwxr-xr-x    1 root root       14519 Mar 22  2017 POST
+-rwxr-xr-x    1 root root      139464 Nov 11  2010 post-grohtml
+lrwxrwxrwx.   1 root root          13 Jul 27  2011 poweroff -> consolehelper
+-rwxr-xr-x    1 root root       14856 May 30 17:17 ppdc
+-rwxr-xr-x    1 root root       10608 May 30 17:17 ppdhtml
+-rwxr-xr-x    1 root root       10544 May 30 17:17 ppdi
+-rwxr-xr-x    1 root root       14760 May 30 17:17 ppdmerge
+-rwxr-xr-x    1 root root       10608 May 30 17:17 ppdpo
+-rwxr-xr-x    1 root root      107112 Nov 11  2010 ppl-config
+-rwxr-xr-x    1 root root       15216 Feb  1  2017 ppm2tiff
+-rwxr-xr-x    1 root root       14912 Nov 11  2010 ppm3d
+-rwxr-xr-x    1 root root       12704 Nov 11  2010 ppmbrighten
+-rwxr-xr-x    1 root root       10576 Nov 11  2010 ppmchange
+-rwxr-xr-x    1 root root       26488 Nov 11  2010 ppmcie
+-rwxr-xr-x    1 root root       11800 Nov 11  2010 ppmcolormask
+-rwxr-xr-x    1 root root        9048 Nov 11  2010 ppmcolors
+-rwxr-xr-x    1 root root       10640 Nov 11  2010 ppmdcfont
+-rwxr-xr-x    1 root root        8832 Nov 11  2010 ppmddumpfont
+-rwxr-xr-x    1 root root        9968 Nov 11  2010 ppmdim
+-rwxr-xr-x    1 root root       10440 Nov 11  2010 ppmdist
+-rwxr-xr-x    1 root root       12160 Nov 11  2010 ppmdither
+-rwxr-xr-x    1 root root       13856 Nov 11  2010 ppmdmkfont
+-rwxr-xr-x    1 root root       19008 Nov 11  2010 ppmdraw
+-rwxr-xr-x    1 root root       11229 Nov 11  2010 ppmfade
+-rwxr-xr-x    1 root root        9968 Nov 11  2010 ppmflash
+-rwxr-xr-x    1 root root       23160 Nov 11  2010 ppmforge
+-rwxr-xr-x    1 root root       10408 Nov 11  2010 ppmglobe
+-rwxr-xr-x    1 root root       12424 Nov 11  2010 ppmhist
+-rwxr-xr-x    1 root root       13256 Nov 11  2010 ppmlabel
+-rwxr-xr-x    1 root root        9952 Nov 11  2010 ppmmake
+-rwxr-xr-x    1 root root       10296 Nov 11  2010 ppmmix
+lrwxrwxrwx    1 root root           7 Jan 18  2012 ppmnorm -> pnmnorm
+-rwxr-xr-x    1 root root       12952 Nov 11  2010 ppmntsc
+-rwxr-xr-x    1 root root       23672 Nov 11  2010 ppmpat
+-rwxr-xr-x    1 root root         926 Nov 11  2010 ppmquant
+-rwxr-xr-x    1 root root        2389 Nov 11  2010 ppmquantall
+-rwxr-xr-x    1 root root        1835 Nov 11  2010 ppmrainbow
+-rwxr-xr-x    1 root root        9952 Nov 11  2010 ppmrelief
+-rwxr-xr-x    1 root root       14104 Nov 11  2010 ppmrough
+-rwxr-xr-x    1 root root        8849 Nov 11  2010 ppmshadow
+-rwxr-xr-x    1 root root       10416 Nov 11  2010 ppmshift
+-rwxr-xr-x    1 root root       10328 Nov 11  2010 ppmspread
+-rwxr-xr-x    1 root root       15040 Nov 11  2010 ppmtoacad
+-rwxr-xr-x    1 root root       15080 Nov 11  2010 ppmtoarbtxt
+-rwxr-xr-x    1 root root       18896 Nov 11  2010 ppmtobmp
+-rwxr-xr-x    1 root root       14440 Nov 11  2010 ppmtoeyuv
+-rwxr-xr-x    1 root root       13552 Nov 11  2010 ppmtogif
+-rwxr-xr-x    1 root root       12744 Nov 11  2010 ppmtoicr
+-rwxr-xr-x    1 root root       41112 Nov 11  2010 ppmtoilbm
+lrwxrwxrwx    1 root root           9 Jan 18  2012 ppmtojpeg -> pnmtojpeg
+-rwxr-xr-x    1 root root       13368 Nov 11  2010 ppmtoleaf
+-rwxr-xr-x    1 root root       11992 Nov 11  2010 ppmtolj
+-rwxr-xr-x    1 root root          82 Nov 11  2010 ppmtomap
+-rwxr-xr-x    1 root root       20472 Nov 11  2010 ppmtomitsu
+-rwxr-xr-x    1 root root      520920 Nov 11  2010 ppmtompeg
+-rwxr-xr-x    1 root root       13376 Nov 11  2010 ppmtoneo
+-rwxr-xr-x    1 root root       17456 Nov 11  2010 ppmtopcx
+-rwxr-xr-x    1 root root       12920 Nov 11  2010 ppmtopgm
+-rwxr-xr-x    1 root root       10296 Nov 11  2010 ppmtopi1
+-rwxr-xr-x    1 root root       12216 Nov 11  2010 ppmtopict
+-rwxr-xr-x    1 root root       12296 Nov 11  2010 ppmtopj
+-rwxr-xr-x    1 root root       16296 Nov 11  2010 ppmtopjxl
+-rwxr-xr-x    1 root root        9184 Nov 11  2010 ppmtoppm
+-rwxr-xr-x    1 root root       10328 Nov 11  2010 ppmtopuzz
+-rwxr-xr-x    1 root root       10352 Nov 11  2010 ppmtorgb3
+-rwxr-xr-x    1 root root       11128 Nov 11  2010 ppmtosixel
+-rwxr-xr-x    1 root root        9928 Nov 11  2010 ppmtoterm
+lrwxrwxrwx    1 root root           8 Jan 18  2012 ppmtouil -> pamtouil
+-rwxr-xr-x    1 root root       17832 Nov 11  2010 ppmtowinicon
+-rwxr-xr-x    1 root root       14880 Nov 11  2010 ppmtoxpm
+-rwxr-xr-x    1 root root        9944 Nov 11  2010 ppmtoyuv
+-rwxr-xr-x    1 root root       11160 Nov 11  2010 ppmtoyuvsplit
+-rwxr-xr-x    1 root root        9960 Nov 11  2010 ppmtv
+-rwxr-xr-x    1 root root       10680 Nov 11  2010 ppmwheel
+-rwxr-xr-x    1 root root       64304 Mar 22  2017 pr
+-rwxr-xr-x    1 root root        5656 Nov 10  2010 precat
+-rwxr-xr-x    1 root root       78448 Nov 11  2010 pre-grohtml
+-rwxr-xr-x    1 root root        5656 Nov 10  2010 preunzip
+-rwxr-xr-x    1 root root        5656 Nov 10  2010 prezip
+-rwxr-xr-x    1 root root       10528 Nov 10  2010 prezip-bin
+-rwxr-xr-x    1 root root         386 May 15 11:29 printafm
+-rwxr-xr-x    1 root root       26280 Mar 22  2017 printenv
+-rwxr-xr-x    1 root root       50088 Mar 22  2017 printf
+-rwxr-xr-x    1 root root     1668024 Sep 21 06:39 profiles
+-rwxr-xr-x    1 root root       72112 Mar 21  2017 protoize
+-r-xr-xr-x    1 root root       11079 Feb 10  2011 prove
+-rwxr-xr-x    1 root root       10976 Oct 17  2014 proxy
+-rwxr-xr-x    1 root root         786 May 15 11:29 ps2ascii
+-rwxr-xr-x    1 root root        2772 May 15 11:29 ps2epsi
+-rwxr-xr-x    1 root root         229 Sep 22  2015 ps2frag
+-rwxr-xr-x    1 root root         315 May 15 11:29 ps2pdf
+-rwxr-xr-x    1 root root         260 May 15 11:29 ps2pdf12
+-rwxr-xr-x    1 root root         260 May 15 11:29 ps2pdf13
+-rwxr-xr-x    1 root root         260 May 15 11:29 ps2pdf14
+-rwxr-xr-x    1 root root        1088 May 15 11:29 ps2pdfwr
+-rwxr-xr-x    1 root root      138624 Sep 22  2015 ps2pk
+-rwxr-xr-x    1 root root         634 May 15 11:29 ps2ps
+-rwxr-xr-x    1 root root         704 May 15 11:29 ps2ps2
+-rwxr-xr-x    1 root root        4286 Sep 22  2015 ps4pdf
+-rwxr-xr-x    1 root root       18960 Aug 22  2010 psbook
+-rwxr-xr-x    2 root root       53325 Mar 22  2017 psed
+lrwxrwxrwx.   1 root root           9 Jul 27  2011 psfaddtable -> psfxtable
+lrwxrwxrwx.   1 root root           9 Jul 27  2011 psfgettable -> psfxtable
+lrwxrwxrwx.   1 root root           9 Jul 27  2011 psfstriptable -> psfxtable
+-rwxr-xr-x    1 root root       21008 Nov 11  2010 psfxtable
+-rwxr-xr-x    1 root root       10424 Nov 11  2010 psidtopgm
+-rwxr-xr-x    1 root root       23048 Mar 22  2017 psktool
+-rwxr-xr-x    1 root root        1446 Sep 22  2015 pslatex
+-rwxr-xr-x    1 root root       27440 Aug 22  2010 psnup
+-rwxr-xr-x    1 root root       24952 Aug 22  2010 psresize
+-rwxr-xr-x    1 root root       20304 Aug 22  2010 psselect
+lrwxrwxrwx    1 root root           6 May 22 16:12 pstack -> gstack
+-rwxr-xr-x    1 root root       20072 Nov 11  2010 pstopnm
+-rwxr-xr-x    1 root root       25880 Aug 22  2010 pstops
+-rwxr-xr-x    1 root root       25256 Mar 22  2017 pstree
+lrwxrwxrwx    1 root root           6 May 22 16:09 pstree.x11 -> pstree
+-rwxr-xr-x    2 root root       36601 Mar 22  2017 pstruct
+-rwxr-xr-x    1 root root        2788 Mar 22  2017 ptar
+-rwxr-xr-x    1 root root        2514 Mar 22  2017 ptardiff
+-rwxr-xr-x    1 root root      129600 Mar 22  2017 ptx
+-rwxr-xr-x    1 root root        1420 May 15 11:29 pv.sh
+-rwxr-xr-x    1 root root       10152 Jul 12 11:38 pwdx
+-rwxr-xr-x    1 root root          78 Aug 18  2016 pydoc
+-rwxr-xr-x    2 root root        9032 Aug 18  2016 python
+lrwxrwxrwx    1 root root           6 May 22 16:09 python2 -> python
+-rwxr-xr-x    2 root root        9032 Aug 18  2016 python2.6
+-rwxr-xr-x    1 root root       65168 Feb 24  2014 qdbus
+-rwxr-xr-x    1 root root      187384 Feb 24  2014 qdbusviewer
+-rwxr-xr-x    1 root root        9960 Nov 11  2010 qrttoppm
+-rwxr-xr-x    1 root root      350976 Feb 24  2014 qtconfig-qt4
+-rwxr-xr-x    1 root root       82752 Jul 23  2015 quota
+-rwxr-xr-x    1 root root       66240 Jul 23  2015 quotasync
+-rwxr-xr-x    1 root root       60984 Apr 11 10:49 ranlib
+-rwxr-xr-x    1 root root       14672 Feb  1  2017 ras2tiff
+-rwxr-xr-x    1 root root       15720 Nov 11  2010 rasttopnm
+-rwxr-xr-x    1 root root       20056 Feb  1  2017 raw2tiff
+-rwxr-xr-x    1 root root       12640 Nov 11  2010 rawtopgm
+-rwxr-xr-x    1 root root       12048 Nov 11  2010 rawtoppm
+-rwxr-xr-x    1 root root       93128 Nov 11  2010 rcs
+lrwxrwxrwx    1 root root          28 Aug  8  2016 rcs2log -> ../share/cvs/contrib/rcs2log
+-rwxr-xr-x    1 root root        3977 Jun 21  2009 rcs-checkin
+-rwxr-xr-x    1 root root       87712 Nov 11  2010 rcsclean
+-rwxr-xr-x    1 root root       67104 Nov 11  2010 rcsdiff
+-rwxr-xr-x.   1 root root        3223 Nov 11  2010 rcsfreeze
+-rwxr-xr-x    1 root root       67104 Nov 11  2010 rcsmerge
+-rwxr-xr-x    1 root root       13560 Nov 11  2010 rdate
+-rwxr-xr-x    1 root root       12480 Dec  9  2013 rdjpgcom
+-rwxr-xr-x    1 root root      303440 Apr 11 10:49 readelf
+lrwxrwxrwx    1 root root          18 May 22 16:09 readlink -> ../../bin/readlink
+lrwxrwxrwx.   1 root root          13 Jul 27  2011 reboot -> consolehelper
+-rwxr-xr-x    1 root root        1804 Mar 29  2006 rebuild-jar-repository
+-rwxr-xr-x    1 root root       15528 Jun  2  2014 recode-sr-latin
+-rwxr-xr-x.   1 root root        3436 Aug 19  2010 recountdiff
+-rwxr-xr-x    1 root root       37120 Aug 19  2010 rediff
+-rwxr-xr-x    1 root root      128936 Nov 11  2010 refer
+-rwxr-xr-x    1 root root        9896 Mar 22  2017 rename
+-rwxr-xr-x    1 root root       10624 Mar 22  2017 renice
+-rwxr-xr-x    1 root root       11619 Mar 22  2017 repoclosure
+-rwxr-xr-x    1 root root       11913 Mar 22  2017 repodiff
+-rwxr-xr-x    1 root root        4196 Mar 22  2017 repo-graph
+-rwxr-xr-x    1 root root        7048 Mar 22  2017 repomanage
+-rwxr-xr-x    1 root root       46110 Mar 22  2017 repoquery
+-rwxr-xr-x    1 root root       10225 Mar 22  2017 repo-rss
+-rwxr-xr-x    1 root root       20320 Mar 22  2017 report
+-rwxr-xr-x    1 root root       40336 Mar 22  2017 report-cli
+-rwxr-xr-x    1 root root       28864 Mar 22  2017 reporter-kerneloops
+-rwxr-xr-x    1 root root       24232 Mar 22  2017 reporter-mailx
+-rwxr-xr-x    1 root root       22576 Mar 22  2017 reporter-print
+-rwxr-xr-x    1 root root       56688 Mar 22  2017 reporter-rhtsupport
+-rwxr-xr-x    1 root root       30400 Mar 22  2017 reporter-upload
+-rwxr-xr-x    1 root root       35112 Mar 22  2017 reporter-ureport
+-rwxr-xr-x    1 root root       13622 Mar 22  2017 reposync
+-rwxr-xr-x    1 root root        8740 Mar 22  2017 repotrack
+lrwxrwxrwx    1 root root           4 Aug  8  2016 reset -> tset
+-rwxr-xr-x    1 root root       19520 Nov 11  2010 resizecons
+-rwxr-xr-x    1 root root       10168 Mar 22  2017 rev
+-rwxr-xr-x    1 root root       16072 Feb  1  2017 rgb2ycbcr
+-rwxr-xr-x    1 root root        9952 Nov 11  2010 rgb3toppm
+lrwxrwxrwx    1 root root          18 May 22 16:10 rhgb-client -> ../../bin/plymouth
+-rwxr-xr-x    1 root root         594 May 10  2016 rhino
+-rwxr-xr-x    1 root root       13320 Nov 11  2010 rlatopam
+-rwxr-xr-x    1 root root       32160 Nov 11  2010 rletopnm
+-rwxr-xr-x    1 root root       71888 Nov 11  2010 rlog
+lrwxrwxrwx    1 root root          27 May 22 16:10 rmail -> /etc/alternatives/mta-rmail
+-rwxr-xr-x    1 root root         262 Mar 23  2017 rmail.postfix
+lrwxrwxrwx    1 root root          22 May 22 16:11 rmid -> /etc/alternatives/rmid
+lrwxrwxrwx    1 root root          29 May 22 16:11 rmiregistry -> /etc/alternatives/rmiregistry
+lrwxrwxrwx.   1 root root          15 Jul 27  2011 rnano -> ../../bin/rnano
+-rwxr-xr-x    1 root root       16848 Sep 22  2015 rngtest
+-rwxr-xr-x    1 root root     7769160 Sep 21 06:39 rpcclient
+-rwxr-xr-x    1 root root       95704 Jun 19 23:38 rpcgen
+-rwxr-xr-x    1 root root     1150495 May  3  2012 rpdump
+-rwxr-xr-x    1 root root     1154997 May  3  2012 rpload
+-rwxr-xr-x    1 root root       16088 May 10  2016 rpm2cpio
+-rwxr-xr-x    1 root root       35216 May 10  2016 rpmbuild
+lrwxrwxrwx    1 root root          13 Aug  8  2016 rpmdb -> ../../bin/rpm
+lrwxrwxrwx    1 root root          13 Aug  8  2016 rpmquery -> ../../bin/rpm
+lrwxrwxrwx    1 root root          13 Aug  8  2016 rpmsign -> ../../bin/rpm
+lrwxrwxrwx    1 root root          13 Aug  8  2016 rpmverify -> ../../bin/rpm
+-rwxr-xr-x    1 root root        2500 Oct 17  2014 rsvg
+-rwxr-xr-x    1 root root       28488 Oct 17  2014 rsvg-convert
+-rwxr-xr-x    1 root root       43696 Oct 17  2014 rsvg-view
+-rwxr-xr-x    1 root root      414968 Apr 30  2014 rsync
+-rwxr-xr-x    1 root root        2583 Sep 22  2015 rubibtex
+-rwxr-xr-x    1 root root        1791 Sep 22  2015 rumakeindex
+-rwxr-xr-x    1 root root       31912 Mar 22  2017 runcon
+-rwxr-xr-x    1 root root        1411 Sep 26  2011 run-parts
+-rwxr-xr-x    1 root root          85 Nov 10  2010 run-with-aspell
+lrwxrwxrwx    1 root root           3 May 22 16:11 rvim -> vim
+-rwxr-xr-x    2 root root       53325 Mar 22  2017 s2p
+-rwxr-xr-x    1 root root      114648 Mar 22  2017 sadf
+-rwxr-xr-x    1 root root       84952 Mar 22  2017 sar
+-rwxr-xr-x    1 root root       21288 Mar 25  2015 sasl2-sample-client
+-rwxr-xr-x    1 root root       18600 Mar 25  2015 sasl2-sample-server
+-rwxr-xr-x    1 root root       23352 Jul 24  2015 satyr
+-rwxr-xr-x    1 root root       11704 Nov 11  2010 sbigtopgm
+-rwxr-xr-x    1 root root       21528 Mar 26  2015 scl
+-rwxr-xr-x    1 root root         258 Mar 26  2015 scl_enabled
+-rwxr-xr-x    1 root root       14352 Mar 22  2017 sclient
+-rwxr-xr-x    1 root root        1870 Mar 26  2015 scl_source
+-rwxr-xr-x    1 root root       67648 Aug 31 13:40 scp
+-rwxr-xr-x    1 root root       16632 Mar 22  2017 script
+-rwxr-xr-x    1 root root       11176 Mar 22  2017 scriptreplay
+-rwxr-xr-x    1 root root       29000 Nov 10  2010 sdiff
+-rwxr-xr-x    1 root root       18832 Nov 18  2016 secon
+-rwxr-xr-x    1 root root      173520 Nov 10  2010 sedismod
+-rwxr-xr-x    1 root root      145424 Nov 10  2010 sedispol
+-rwxr-xr-x    1 root root       33053 Sep 23  2011 seekwatcher
+-rwxr-xr-x    1 root root      133152 Mar 22  2017 selfsign-getcert
+-rwxr-xr-x    1 root root      199632 Nov 18  2016 semodule_deps
+-rwxr-xr-x    1 root root       10584 Nov 18  2016 semodule_expand
+-rwxr-xr-x    1 root root       10512 Nov 18  2016 semodule_link
+-rwxr-xr-x    1 root root       14944 Nov 18  2016 semodule_package
+-rwxr-xr-x    1 root root       43944 Mar 22  2017 seq
+lrwxrwxrwx    1 root root          28 May 22 16:11 servertool -> /etc/alternatives/servertool
+-rwxr-xr-x    1 root root       13920 Mar 22  2017 setarch
+-rwxr-xr-x    1 root root       18728 Jul 23  2015 setcifsacl
+-rwxr-xr-x    1 root root       37016 Aug 22 16:14 setfacl
+-rwxr-xr-x    1 root root       18448 Sep 23  2011 setfattr
+-rwxr-xr-x    1 root root       10472 Nov 11  2010 setkeycodes
+-rwxr-xr-x    1 root root       12272 Nov 11  2010 setleds
+-rwxr-xr-x    1 root root        9976 Nov 11  2010 setmetamode
+-rwxr-xr-x    1 root root        8800 Mar 22  2017 setsid
+-rwxr-xr-x    1 root root       25704 Mar 22  2017 setterm
+lrwxrwxrwx    1 root root          13 Aug  8  2016 setup -> consolehelper
+-rwxr-xr-x    1 root root        1539 May 30 11:46 setup-nsssysinit.sh
+-rwxr-xr-x    1 root root      100424 Aug 31 13:40 sftp
+lrwxrwxrwx    1 root root           6 Aug  8  2016 sg -> newgrp
+-rwxr-xr-x    1 root root       15000 Nov 11  2010 sgitopnm
+-rwxr-xr-x    1 root root         265 Nov 17  2000 sgmlwhich
+-rwxr-xr-x    1 root root       39920 Mar 22  2017 sha1sum
+-rwxr-xr-x    1 root root       45776 Mar 22  2017 sha224sum
+-rwxr-xr-x    1 root root       45776 Mar 22  2017 sha256sum
+-rwxr-xr-x    1 root root       51112 Mar 22  2017 sha384sum
+-rwxr-xr-x    1 root root       51112 Mar 22  2017 sha512sum
+-rwxr-xr-x    1 root root     1643448 Sep 21 06:39 sharesec
+-rwxr-xr-x    1 root root        7655 Mar 22  2017 shasum
+-rwxr-xr-x    1 root root       10353 Mar 22  2017 show-changed-rco
+-rwxr-xr-x    1 root root        2567 Aug 22  2010 showchar
+-rwxr-xr-x    1 root root       17672 Nov 11  2010 showconsolefont
+-rwxr-xr-x    1 root root       16570 Mar 22  2017 show-installed
+-rwxr-xr-x    1 root root       14112 Nov 11  2010 showkey
+-rwxr-xr-x    1 root root       51432 Mar 22  2017 shred
+-rwxr-xr-x    1 root root       38944 Mar 22  2017 shuf
+-rwxr-xr-x    1 root root      172064 May 30 11:46 signtool
+-rwxr-xr-x    1 root root       89680 May 30 11:46 signver
+-rwxr-xr-x    1 root root       14360 Mar 22  2017 sim_client
+-rwxr-xr-x    1 root root       10464 Nov 11  2010 sirtopnm
+-rwxr-xr-x    1 root root       33736 Apr 11 10:49 size
+-rwxr-xr-x    2 root root       18752 Jul 12 11:38 skill
+-rwxr-xr-x    1 root root       17568 Jul 12 11:38 slabtop
+-rwxr-xr-x    1 root root       17872 Nov 11  2010 sldtoppm
+lrwxrwxrwx    1 root root           5 Sep 22 08:57 slogin -> ./ssh
+-rwxr-xr-x    1 root root     6394504 Sep 21 06:39 smbcacls
+-rwxr-xr-x    1 root root     6435560 Sep 21 06:39 smbclient
+-rwxr-xr-x    1 root root     1668416 Sep 21 06:39 smbcontrol
+-rwxr-xr-x    1 root root     6386320 Sep 21 06:39 smbcquotas
+-rwxr-xr-x    1 root root     6636200 Sep 21 06:39 smbget
+-rwxr-xr-x    1 root root     6414952 Sep 21 06:39 smbpasswd
+-rwxr-xr-x    1 root root        2295 Sep 21 06:38 smbprint
+-rwxr-xr-x    1 root root     3467000 Sep 21 06:39 smbspool
+-rwxr-xr-x    1 root root        4896 Sep 21 06:38 smbtar
+-rwxr-xr-x    1 root root     1639328 Sep 21 06:39 smbta-util
+-rwxr-xr-x    1 root root     6324840 Sep 21 06:39 smbtree
+-rwxr-xr-x    1 root root       10672 Sep 23  2011 sndfile-cmp
+-rwxr-xr-x    1 root root       19280 Sep 23  2011 sndfile-convert
+-rwxr-xr-x    1 root root       14536 Sep 23  2011 sndfile-info
+-rwxr-xr-x    1 root root       12920 Sep 23  2011 sndfile-metadata-get
+-rwxr-xr-x    1 root root       18608 Sep 23  2011 sndfile-metadata-set
+-rwxr-xr-x    1 root root       18256 Sep 23  2011 sndfile-play
+-rwxr-xr-x    1 root root       20008 Sep 23  2011 sndfile-regtest
+-rwxr-xr-x    2 root root       18752 Jul 12 11:38 snice
+-rwxr-xr-x    1 root root       26192 Nov 11  2010 soelim
+-rwxr-xr-x    1 root root       10264 Nov 11  2010 spctoppm
+-rwxr-xr-x    1 root root       35048 Mar 22  2017 speaker-test
+-rwxr-xr-x    1 root root         122 Nov 10  2010 spell
+-rwxr-xr-x    1 root root       17452 Mar 22  2017 splain
+-rwxr-xr-x    1 root root       55360 Mar 22  2017 split
+-rwxr-xr-x.   1 root root        3032 Aug 19  2010 splitdiff
+-rwxr-xr-x    1 root root       11256 Nov 11  2010 spottopgm
+-rwxr-xr-x    1 root root       26832 Jun 19 23:38 sprof
+-rwxr-xr-x    1 root root        9408 Nov 11  2010 sputoppm
+-rwxr-xr-x    1 root root       59392 Aug 17  2015 sqlite3
+-rwxr-xr-x    1 root root      450728 Aug 31 13:40 ssh
+-rwxr-xr-x    1 root root      158920 Aug 31 13:40 ssh-add
+-rwxr-sr-x    1 root nobody    141384 Aug 31 13:40 ssh-agent
+-rwxr-xr-x    1 root root        1425 Aug 31 13:40 ssh-copy-id
+-rwxr-xr-x    1 root root      199880 Aug 31 13:40 ssh-keygen
+-rwxr-xr-x    1 root root      253752 Aug 31 13:40 ssh-keyscan
+-rwxr-xr-x    1 root root      114048 May 30 11:46 ssltap
+-rwxr-xr-x    1 root root       34096 Aug 22 19:05 sss_ssh_authorizedkeys
+-rwxr-xr-x    1 root root       36872 Aug 22 19:05 sss_ssh_knownhostsproxy
+-rwxr-xr-x    1 root root     3065840 Mar 22  2017 stap
+-rwxr-xr-x    1 root root       10264 Mar 22  2017 stap-merge
+-rwxr-xr-x    1 root root        3886 Mar 22  2017 stap-prep
+-rwxr-xr-x    1 root root        4520 Mar 22  2017 stap-report
+---s--x---    1 root stapusr   183072 Mar 22  2017 staprun
+-rwxr-xr-x    1 root root       26720 Mar 22  2017 stapsh
+-rwxr-xr-x    1 root root       50984 Mar 22  2017 stat
+-rwxr-xr-x    1 root root       63464 Mar 22  2017 stdbuf
+-rwxr-xr-x    1 root root      436192 Mar 21  2017 strace
+-rwxr-xr-x    1 root root         944 Mar 21  2017 strace-log-merge
+-rwxr-xr-x    1 root root       32464 Apr 11 10:49 strings
+-rwxr-xr-x    1 root root      219072 Apr 11 10:49 strip
+---s--x--x    1 root root      123832 Jun 22 16:05 sudo
+lrwxrwxrwx    1 root root           4 Jun 24 07:39 sudoedit -> sudo
+---x--x--x    1 root root       63840 Jun 22 16:05 sudoreplay
+-rwxr-xr-x    1 root root       34632 Mar 22  2017 sum
+-rwxr-xr-x    1 root root      200320 Aug 17  2015 svn
+-rwxr-xr-x    1 root root       62936 Aug 17  2015 svnadmin
+-rwxr-xr-x    1 root root       33880 Aug 17  2015 svndumpfilter
+-rwxr-xr-x    1 root root       62536 Aug 17  2015 svnlook
+-rwxr-xr-x    1 root root       75368 Aug 17  2015 svnserve
+-rwxr-xr-x    1 root root       44712 Aug 17  2015 svnsync
+-rwxr-xr-x    1 root root       11552 Aug 17  2015 svnversion
+-rwxr-xr-x    1 root root     1139016 Sep 23  2011 swig
+-rwxr-xr-x    1 root root        1155 Dec  5  2014 system-config-firewall-tui
+lrwxrwxrwx    1 root root          13 Aug  8  2016 system-config-network -> consolehelper
+lrwxrwxrwx    1 root root          13 Aug  8  2016 system-config-network-cmd -> consolehelper
+-rwxr-xr-x    1 root root       14480 Mar 16  2015 tabs
+-rwxr-xr-x    1 root root       96256 Mar 22  2017 tac
+-rwxr-xr-x    1 root root       61496 Mar 22  2017 tail
+-rwxr-xr-x    1 root root       11936 Mar 22  2017 tailf
+-rwxr-xr-x    1 root root       28920 Aug  9  2013 talk
+-rwxr-xr-x    1 root root       47424 Sep 22  2015 tangle
+-rwxr-xr-x    1 root root      105704 Nov 11  2010 tbl
+lrwxrwxrwx    1 root root           8 May 22 16:09 tclsh -> tclsh8.5
+-rwxr-xr-x    1 root root        9016 Nov 11  2010 tclsh8.5
+-rwxr-xr-x    1 root root       27752 Mar 22  2017 tee
+-rwxr-xr-x    1 root root      102904 Jul 10  2014 telnet
+-rwxr-xr-x    1 root root       33808 Mar 22  2017 test
+-rwxr-xr-x    1 root root     1643448 Sep 21 06:39 testparm
+-rwxr-xr-x    1 root root      288560 Sep 22  2015 tex
+-rwxr-xr-x    1 root root       44368 Sep 22  2015 texconfig
+-rwxr-xr-x    1 root root       13061 Sep 22  2015 texconfig-dialog
+-rwxr-xr-x    1 root root         838 Sep 22  2015 texconfig-sys
+lrwxrwxrwx    1 root root           8 Aug  8  2016 texhash -> mktexlsr
+-rwxr-xr-x    1 root root        8866 Sep 22  2015 texlinks
+lrwxrwxrwx    1 root root           6 Aug  8  2016 texsis -> pdftex
+-rwxr-xr-x    1 root root       30888 Nov 11  2010 tfmtodit
+-rwxr-xr-x    1 root root       47928 Sep 22  2015 tftopl
+-rwxr-xr-x    1 root root       14056 Nov 11  2010 tgatoppm
+-rwxr-xr-x    1 root root       17616 Nov 11  2010 theora_dump_video
+-rwxr-xr-x    1 root root       46136 Nov 11  2010 theora_encode
+-rwxr-xr-x.   1 root root         266 Nov 11  2010 theora_player
+-rwxr-xr-x    1 root root       27040 Nov 11  2010 theora_player.bin
+-rwxr-xr-x    1 root root       22584 Nov 11  2010 thinkjettopbm
+-rwxr-xr-x    1 root root       19784 Feb  1  2017 thumbnail
+-rwxr-xr-x    1 root root       41564 Sep 22  2015 thumbpdf
+-rwxr-xr-x    1 root root       53784 Mar 16  2015 tic
+-rwxr-xr-x    1 root root       15160 Sep 22  2015 tie
+-rwxr-xr-x    1 root root       16440 Feb  1  2017 tiff2bw
+-rwxr-xr-x    1 root root       69368 Feb  1  2017 tiff2pdf
+-rwxr-xr-x    1 root root       46088 Feb  1  2017 tiff2ps
+-rwxr-xr-x    1 root root       15968 Feb  1  2017 tiff2rgba
+-rwxr-xr-x    1 root root       19088 Feb  1  2017 tiffcmp
+-rwxr-xr-x    1 root root       36000 Feb  1  2017 tiffcp
+-rwxr-xr-x    1 root root      104296 Feb  1  2017 tiffcrop
+-rwxr-xr-x    1 root root       14712 Feb  1  2017 tiffdither
+-rwxr-xr-x    1 root root       20944 Feb  1  2017 tiffdump
+-rwxr-xr-x    1 root root       18384 Feb  1  2017 tiffinfo
+-rwxr-xr-x    1 root root       19280 Feb  1  2017 tiffmedian
+-rwxr-xr-x    1 root root       13072 Feb  1  2017 tiffset
+-rwxr-xr-x    1 root root       15208 Feb  1  2017 tiffsplit
+-rwxr-xr-x    1 root root       37032 Nov 11  2010 tifftopnm
+-rwxr-xr-x    1 root root       17928 Mar 23  2015 time
+-rwxr-xr-x    1 root root       50176 Mar 22  2017 timeout
+-rwxr-xr-x    1 root root       11808 Jul 12 11:38 tload
+lrwxrwxrwx    1 root root          23 Aug  8  2016 tmpwatch -> ../../usr/sbin/tmpwatch
+lrwxrwxrwx    1 root root          27 May 22 16:11 tnameserv -> /etc/alternatives/tnameserv
+-rwxr-xr-x    1 root root       15488 Mar 16  2015 toe
+-rwxr-xr-x    1 root root       68368 Jul 12 11:38 top
+-rwxr-xr-x    1 root root       15272 Mar 16  2015 tput
+-rwxr-xr-x    1 root root       41424 Mar 22  2017 tr
+-rwxr-xr-x    1 root root      275680 Mar 23  2017 trace-cmd
+-rwxr-xr-x    1 root root       44408 Jan 14  2015 tree
+-rwxr-xr-x    1 root root      363616 Nov 11  2010 troff
+-rwxr-xr-x    1 root root       51160 Mar 22  2017 truncate
+-rwxr-xr-x    1 root root       22432 Mar 16  2015 tset
+-rwxr-xr-x    1 root root       35864 Mar 22  2017 tsort
+-rwxr-xr-x    1 root root       25464 Mar 22  2017 tty
+-rwxr-xr-x    1 root root        7131 Jun 19 23:24 tzselect
+-rwxr-xr-x    1 root root       21856 Dec  7  2011 ucs2any
+-rwxr-xr-x    1 root root       17528 Mar 22  2017 ul
+-rwxr-xr-x    1 root root       31752 Mar 22  2017 unexpand
+-rwxr-xr-x    1 root root       39008 Mar 22  2017 uniq
+-rwxr-xr-x    1 root root        4206 May 15 11:29 unix-lpr.sh
+lrwxrwxrwx    1 root root           2 Aug  8  2016 unlzma -> xz
+lrwxrwxrwx    1 root root          27 May 22 16:11 unpack200 -> /etc/alternatives/unpack200
+-rwxr-xr-x    1 root root       61592 Mar 21  2017 unprotoize
+-rwxr-xr-x    1 root root       13208 Mar 22  2017 unshare
+-rwxr-xr-x.   1 root root        5940 Aug 19  2010 unwrapdiff
+lrwxrwxrwx    1 root root           2 Aug  8  2016 unxz -> xz
+-rwxr-xr-x    2 root root      169768 Mar 21  2017 unzip
+-rwxr-xr-x    1 root root       81072 Mar 21  2017 unzipsfx
+-rwxr-xr-x    1 root root        8743 May  9 14:24 update-ca-trust
+-rwxr-xr-x    1 root root       40720 Mar 12  2015 updatedb
+-rwxr-xr-x    1 root root       18616 Aug 25  2010 update-desktop-database
+-rwxr-xr-x    1 root root         484 Aug 31  2015 update-gdk-pixbuf-loaders
+-rw-r--r--    1 root root         319 Jan 24  2017 update-gio-modules
+-rwxr-xr-x    1 root root         313 Mar 21  2017 update-gtk-immodules
+-rwxr-xr-x    1 root root       50920 May 27  2014 update-mime-database
+-rwxr-xr-x    1 root root       47168 Sep 22  2015 updmap
+-rwxr-xr-x    1 root root         829 Sep 22  2015 updmap-sys
+-rwxr-xr-x    1 root root        8360 Jul 12 11:38 uptime
+-rwxr-xr-x    1 root root       12437 May 10  2016 urlgrabber
+-rwxr-xr-x    1 root root        4202 Mar 17  2010 usb-devices
+-rwxr-xr-x    1 root root       23952 May 11  2016 usbhid-dump
+-rwxr-xr-x    1 root root       27712 Mar 22  2017 users
+-rwxr-xr-x    1 root root       14192 Jul 23  2015 utmpdump
+-rwxr-xr-x    1 root root       14352 Mar 22  2017 uuclient
+-rwxr-xr-x    1 root root        9360 Mar 22  2017 uuidgen
+-rwxr-xr-x    1 root root       46759 Mar 22  2017 valgrind
+-rwxr-xr-x    1 root root       28446 Mar 22  2017 valgrind-listener
+-rwxr-xr-x    1 root root      117048 Mar 22  2017 vdir
+-rwxr-xr-x    1 root root        9856 May 10  2016 verify_blkparse
+-rwxr-xr-x    1 root root        9415 Mar 22  2017 verifytree
+-rwxr-xr-x    1 root root       53224 Sep 22  2015 vftovp
+-rwxr-xr-x    1 root root       97711 Mar 22  2017 vgdb
+-rwxr-xr-x    1 root root     2324712 Dec 21  2016 vim
+lrwxrwxrwx    1 root root           3 May 22 16:11 vimdiff -> vim
+-rwxr-xr-x    1 root root        2084 Dec 21  2016 vimtutor
+-rwxr-xr-x    1 root root      444464 Mar 22  2017 virsh
+-rwxr-xr-x    1 root root       18464 Mar 22  2017 virt-host-validate
+-rwxr-xr-x    1 root root        9770 Mar 22  2017 virt-pki-validate
+-rwxr-xr-x    1 root root        4076 Mar 22  2017 virt-xml-validate
+-rwxr-xr-x    1 root root       24880 Jul 12 11:38 vmstat
+-rwxr-xr-x    1 root root        8912 Nov 11  2010 volname
+-rwxr-xr-x    1 root root       61720 Sep 22  2015 vptovf
+-rwxr-xr-x    1 root root       16608 Jul 12 11:38 w
+-r-xr-sr-x    1 root tty        15224 Jul 23  2015 wall
+-rwxr-xr-x    1 root root       16856 Jul 12 11:38 watch
+-rwxr-xr-x    1 root root       14176 Jun 30  2014 watchgnupg
+-rwxr-xr-x    1 root root     1721664 Sep 21 06:39 wbinfo
+-rwxr-xr-x    1 root root        9944 Nov 11  2010 wbmptopbm
+-rwxr-xr-x    1 root root       36408 Mar 22  2017 wc
+-rwxr-xr-x    1 root root       68944 Sep 22  2015 weave
+-rwxr-xr-x    1 root root         284 May 15 11:29 wftopfa
+-rwxr-xr-x    1 root root      366848 Mar 21  2017 wget
+-rwxr-xr-x    1 root root        1784 Mar 21  2017 whatis
+-rwxr-xr-x    1 root root       14616 Mar 22  2017 whereis
+-rwxr-xr-x    1 root root       25528 Sep 23  2011 which
+-rwxr-xr-x    1 root root       30304 Mar 21  2017 whiptail
+-rwxr-xr-x    1 root root       48952 Mar 22  2017 who
+-rwxr-xr-x    1 root root       26280 Mar 22  2017 whoami
+-rwxr-xr-x    1 root root       16968 Nov 11  2010 winicontoppm
+lrwxrwxrwx    1 root root           7 May 22 16:11 wish -> wish8.5
+-rwxr-xr-x    1 root root       11288 Nov 11  2010 wish8.5
+-rwxr-xr-x    1 root root        9872 Nov 10  2010 word-list-compress
+-rwxr-sr-x    1 root tty        12016 Mar 22  2017 write
+-rwxr-xr-x    1 root root       13200 Dec  9  2013 wrjpgcom
+lrwxrwxrwx    1 root root           7 May 22 16:10 x86_64 -> setarch
+-rwxr-xr-x    4 root root      271344 Mar 21  2017 x86_64-redhat-linux-c++
+-rwxr-xr-x    4 root root      271344 Mar 21  2017 x86_64-redhat-linux-g++
+-rwxr-xr-x    2 root root      268288 Mar 21  2017 x86_64-redhat-linux-gcc
+-rwxr-xr-x    1 root root       46648 Mar  1  2016 xargs
+-rwxr-xr-x    1 root root       13616 Nov 11  2010 xbmtopbm
+-rwxr-xr-x    1 root root       15050 Sep 23  2011 xdg-desktop-icon
+-rwxr-xr-x    1 root root       37949 Sep 23  2011 xdg-desktop-menu
+-rwxr-xr-x    1 root root       19059 Sep 23  2011 xdg-email
+-rwxr-xr-x    1 root root       24459 Sep 23  2011 xdg-icon-resource
+-rwxr-xr-x    1 root root       29569 Sep 23  2011 xdg-mime
+-rwxr-xr-x    1 root root       11201 Sep 23  2011 xdg-open
+-rwxr-xr-x    1 root root       21062 Sep 23  2011 xdg-screensaver
+-rwxr-xr-x    1 root root       25055 Sep 23  2011 xdg-settings
+-rwxr-xr-x    1 root root      224960 Jun  2  2014 xgettext
+-rwxr-xr-x    1 root root       14624 Nov 11  2010 ximtoppm
+-rwxr-xr-x    1 root root       19552 Jun 23  2016 xmlcatalog
+-rwxr-xr-x.   1 root root       13194 Aug 21  2010 xml_grep
+-rwxr-xr-x    1 root root       64864 Jun 23  2016 xmllint
+-rwxr-xr-x.   1 root root        4075 Aug 21  2010 xml_merge
+-rwxr-xr-x.   1 root root        7749 Aug 21  2010 xml_pp
+-rwxr-xr-x.   1 root root        6592 Aug 21  2010 xml_spellcheck
+-rwxr-xr-x.   1 root root       21642 Aug 21  2010 xml_split
+-rwxr-xr-x    1 root root       26080 Nov 28  2016 xmlwf
+-rwxr-xr-x    1 root root       18544 Nov 11  2010 xpmtoppm
+-rwxr-xr-x    1 root root       29568 Sep 13  2012 xsltproc
+-rwxr-xr-x    1 root root        4093 Mar 22  2017 xsubpp
+-rwxr-xr-x    1 root root        1563 Oct 29  2013 xulrunner
+-rwxr-xr-x    1 root root       10896 Nov 11  2010 xvminitoppm
+-rwxr-xr-x    1 root root       22088 Nov 11  2010 xwdtopnm
+-rwxr-xr-x    1 root root       18680 Dec 21  2016 xxd
+-rwxr-xr-x    1 root root       51840 Jun 19  2014 xz
+lrwxrwxrwx    1 root root           2 Aug  8  2016 xzcat -> xz
+lrwxrwxrwx    1 root root           6 Aug  8  2016 xzcmp -> xzdiff
+-rwxr-xr-x    1 root root       15432 Jun 19  2014 xzdec
+-rwxr-xr-x    1 root root        5220 Jun 19  2014 xzdiff
+lrwxrwxrwx    1 root root           6 Aug  8  2016 xzegrep -> xzgrep
+lrwxrwxrwx    1 root root           6 Aug  8  2016 xzfgrep -> xzgrep
+-rwxr-xr-x    1 root root        5488 Jun 19  2014 xzgrep
+-rwxr-xr-x    1 root root        1806 Jun 19  2014 xzless
+-rwxr-xr-x    1 root root        2167 Jun 19  2014 xzmore
+-rwxr-xr-x    1 root root       78296 Jun 22  2012 yacc
+-rwxr-xr-x    1 root root        9976 Nov 11  2010 ybmtopbm
+-rwxr-xr-x    1 root root       25664 Mar 22  2017 yes
+-rwxr-xr-x    1 root root       16168 Dec  7  2011 ypcat
+-rwxr-xr-x    3 root root       26016 Dec  7  2011 ypchfn
+-rwxr-xr-x    3 root root       26016 Dec  7  2011 ypchsh
+-rwxr-xr-x    1 root root       13992 Dec  7  2011 ypmatch
+-rwxr-xr-x    3 root root       26016 Dec  7  2011 yppasswd
+-rwxr-xr-x    1 root root       17552 Dec  7  2011 ypwhich
+-rwxr-xr-x    1 root root         801 Mar 22  2017 yum
+-rwxr-xr-x    1 root root        8545 Mar 22  2017 yum-builddep
+-rwxr-xr-x    1 root root        8522 Mar 22  2017 yum-config-manager
+-rwxr-xr-x    1 root root        7603 Mar 22  2017 yum-debug-dump
+-rwxr-xr-x    1 root root        7931 Mar 22  2017 yum-debug-restore
+-rwxr-xr-x    1 root root       12289 Mar 22  2017 yumdownloader
+-rwxr-xr-x    1 root root       11030 Mar 22  2017 yum-groups-manager
+-rwxr-xr-x    1 root root       11976 Nov 11  2010 yuvsplittoppm
+-rwxr-xr-x    1 root root       10368 Nov 11  2010 yuvtoppm
+-rwxr-xr-x    1 root root          67 Mar 21  2017 zcmp
+-rwxr-xr-x    1 root root        4441 Mar 21  2017 zdiff
+-rwxr-xr-x    1 root root          62 Mar 21  2017 zegrep
+-rwxr-xr-x    1 root root       10720 Nov 11  2010 zeisstopnm
+-rwxr-xr-x    1 root root          62 Mar 21  2017 zfgrep
+-rwxr-xr-x    1 root root        2026 Mar 21  2017 zforce
+-rwxr-xr-x    1 root root        4981 Mar 21  2017 zgrep
+-rwxr-xr-x    1 root root      215560 Nov 10  2015 zip
+-rwxr-xr-x    1 root root      109696 Nov 10  2015 zipcloak
+-rwxr-xr-x    1 root root        2953 Oct 10  2008 zipgrep
+-rwxr-xr-x    2 root root      169768 Mar 21  2017 zipinfo
+-rwxr-xr-x    1 root root      101856 Nov 10  2015 zipnote
+-rwxr-xr-x    1 root root      105280 Nov 10  2015 zipsplit
+-rwxr-xr-x    1 root root        1731 Mar 21  2017 zless
+-rwxr-xr-x    1 root root        2605 Mar 21  2017 zmore
+-rwxr-xr-x    1 root root        5246 Mar 21  2017 znew
+lrwxrwxrwx.   1 root root           6 Jul 27  2011 zsoelim -> soelim
